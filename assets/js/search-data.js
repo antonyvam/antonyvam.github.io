@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Selected software and open-data projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -91,6 +91,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-battery-imaging-library-bil",
+          title: 'Battery Imaging Library (BIL)',
+          description: "An open, multi-modal, multi-length-scale dataset hub for battery imaging (CT, XRD-CT, SEM/EDX, EBSD and more), designed for benchmarking and teaching.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/battery-imaging-library/";
+            },},{id: "projects-ndtomo",
+          title: 'nDTomo',
+          description: "A modular Python toolkit for X-ray chemical imaging and tomography (with a focus on hyperspectral modalities such as XRD-CT).",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ndtomo/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
