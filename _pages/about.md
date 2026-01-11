@@ -32,5 +32,4 @@ I have led and delivered **peer-reviewed research programmes** funded by **UKRI 
 **Links**  
 - [GitHub](https://github.com/antonyvam)  
 - [Google Scholar](https://scholar.google.com/)  
-- [LinkedIn (PDF)](https://www.linkedin.com/in/antonyvam/)
-- [Curriculum Vitae (PDF)](/cv/)
+- [LinkedIn](https://www.linkedin.com/in/antonyvam/)
