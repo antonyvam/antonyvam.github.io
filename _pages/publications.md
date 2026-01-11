@@ -7,14 +7,16 @@ nav: true
 nav_order: 3
 ---
 
-<!-- _pages/publications.md -->
+## Preprints
 
-<!-- Bibsearch Feature -->
+{% bibliography -f papers -q @*[bibtex_show=preprints] %}
+
+## Papers
+
+{% bibliography -f papers -q @*[bibtex_show=papers] %}
+
+## Books and chapters
+
+{% bibliography -f papers -q @*[bibtex_show=books] %}
 
 {% include bib_search.liquid %}
-
-<div class="publications">
-
-{% bibliography %}
-
-</div>
