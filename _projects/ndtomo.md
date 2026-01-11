@@ -6,8 +6,8 @@ importance: 1
 category: work
 
 # robust across al-folio variants:
-github: antonyvam/nDTomo
-repo: antonyvam/nDTomo
+github: https://github.com/antonyvam/antonyvam/nDTomo
+repo: https://github.com/antonyvam/antonyvam/nDTomo
 website: https://github.com/antonyvam/nDTomo   # or docs URL if you have one
 redirect: https://github.com/antonyvam/nDTomo  # makes clicking the card go there
 

@@ -5,8 +5,8 @@ img: /assets/img/bil.png
 importance: 2
 category: work
 
-github: antonyvam/BatteryImagingLibrary
-repo: antonyvam/BatteryImagingLibrary
+github: https://github.com/antonyvam/BatteryImagingLibrary
+repo: https://github.com/antonyvam//BatteryImagingLibrary
 website: https://www.batteryimaginglibrary.com/
 redirect: https://www.batteryimaginglibrary.com/
 
