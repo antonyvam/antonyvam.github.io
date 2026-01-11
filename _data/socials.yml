@@ -36,7 +36,7 @@ orcid_id: 0000-0002-4745-0602 # your ORCID ID
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
 rss_icon: true # comment this line to hide the RSS icon
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+scholar_userid: eObSAAkAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
@@ -52,6 +52,4 @@ scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-- title: Google Scholar
-  icon: ai ai-google-scholar
-  url: https://scholar.google.co.uk/citations?user=eObSAAkAAAAJ&hl=en
+scholar_url: https://scholar.google.co.uk/citations?user=eObSAAkAAAAJ&hl=en
