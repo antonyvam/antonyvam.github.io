@@ -1,7 +1,7 @@
 ---
 title: nDTomo
 description: A modular Python toolkit for X-ray chemical imaging and tomography (with a focus on hyperspectral modalities such as XRD-CT).
-img: /assets/img/projects/xrdct.png
+img: /assets/img/xrdct.png
 importance: 1
 category: work
 
