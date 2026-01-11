@@ -24,7 +24,7 @@ latest_posts:
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <img src="/assets/img/about/ndtomo_demo.gif"
+  <img src="/assets/img/ndtomo_demo.gif"
        alt="Handling hyperspectral imaging data with the nDTomo GUI"
        style="max-width: 100%; width: 700px;">
 </div>
