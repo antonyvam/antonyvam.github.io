@@ -1,0 +1,9 @@
+---
+title: Battery Imaging Library (BIL)
+description: An open, multi-modal, multi-length-scale dataset hub for battery imaging (CT, XRD-CT, SEM/EDX, EBSD and more), designed for benchmarking and teaching.
+img: assets/img/projects/bil.png
+importance: 2
+category: work
+github: https://github.com/<YOUR_BIL_REPO_IF_PUBLIC>
+---
+BIL provides curated, openly accessible battery imaging datasets with rich metadata and code to support preprocessing, reconstruction, and benchmarking across modalities.
