@@ -1,11 +1,15 @@
 ---
 layout: cv
-permalink: /cv/
 title: cv
+permalink: /cv/
 nav: true
 nav_order: 4
-cv_pdf: CV_AV.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+[Download CV (PDF)](/assets/pdf/CV_AV.pdf)
+
+<iframe
+  src="/assets/pdf/CV_AV.pdf"
+  width="100%"
+  height="900px"
+  style="border: none;">
+</iframe>
 ---
