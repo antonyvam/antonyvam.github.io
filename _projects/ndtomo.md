@@ -4,6 +4,12 @@ description: A modular Python toolkit for X-ray chemical imaging and tomography 
 img: assets/img/projects/xrdct.png
 importance: 1
 category: work
-github: https://github.com/antonyvam/nDTomo
+
+# robust across al-folio variants:
+github: antonyvam/nDTomo
+repo: antonyvam/nDTomo
+website: https://github.com/antonyvam/nDTomo   # or docs URL if you have one
+redirect: https://github.com/antonyvam/nDTomo  # makes clicking the card go there
+
 ---
 nDTomo is a Python toolkit for reconstruction and analysis workflows in chemical imaging and tomography, designed for real experimental data and reproducible research pipelines.
