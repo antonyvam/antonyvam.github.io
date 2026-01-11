@@ -23,12 +23,6 @@ latest_posts:
   limit: 3
 ---
 
-<div style="text-align: center; margin-bottom: 2rem;">
-  <img src="/assets/img/ndtomo_demo.gif"
-       alt="Handling hyperspectral imaging data with the nDTomo GUI"
-       style="max-width: 100%; width: 700px;">
-</div>
-
 I am a **research engineer** working on **machine-learning methods for scientific imaging and inverse problems**.
 
 My work focuses on **physics-informed learning**, **GAN-based generative models for multimodal experimental data**, and the development of **deployable research software** used in industrial and large-scale experimental environments. I work primarily with real, uncertainty-limited data from imaging and diffraction techniques, designing methods that prioritise physical consistency, robustness, and practical utility.
@@ -39,3 +33,9 @@ I have led and delivered **peer-reviewed research programmes** funded by **UKRI 
 - [GitHub](https://github.com/antonyvam)  
 - [Google Scholar](https://scholar.google.com/)  
 - [LinkedIn](https://www.linkedin.com/in/antonyvam/)
+
+<div style="text-align: center; margin-bottom: 2rem;">
+  <img src="/assets/img/ndtomo_demo.gif"
+       alt="Handling hyperspectral imaging data with the nDTomo GUI"
+       style="max-width: 100%; width: 700px;">
+</div>
