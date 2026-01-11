@@ -34,6 +34,3 @@ I have led and delivered **peer-reviewed research programmes** funded by **UKRI 
 - [Google Scholar](https://scholar.google.com/)  
 - [LinkedIn (PDF)](https://www.linkedin.com/in/antonyvam/)
 - [Curriculum Vitae (PDF)](/cv/)
-
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.

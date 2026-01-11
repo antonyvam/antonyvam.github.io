@@ -6,8 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Antonis
 middle_name: (Antony)
 last_name: Vamvakeros
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note: Feel free to reach out to me via email or connect on LinkedIn.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Research engineer working on machine-learning methods for scientific imaging and inverse problems,
   with a focus on physics-informed learning, GAN-based generative models for multimodal experimental data,
