@@ -7,15 +7,15 @@ nav: true
 nav_order: 3
 ---
 
-## Preprints
+### Preprints
 
 {% bibliography -f papers -q @*[pubtype =preprints] %}
 
-## Papers
+### Papers
 
 {% bibliography -f papers -q @*[pubtype =papers] %}
 
-## Books and chapters
+### Books and chapters
 
 {% bibliography -f papers -q @*[pubtype =books] %}
 
