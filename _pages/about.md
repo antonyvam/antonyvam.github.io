@@ -25,7 +25,7 @@ latest_posts:
 
 I am a **research engineer** working on **machine-learning methods for scientific imaging and inverse problems**.
 
-My work focuses on **physics-informed learning**, **GAN-based generative models for multimodal experimental data**, and the development of **deployable research software** used in industrial and large-scale experimental environments. I work primarily with real, uncertainty-limited data from imaging and diffraction techniques, designing methods that prioritise physical consistency, robustness, and practical utility.
+My work focuses on **physics-informed learning**, **GAN-based generative models for multimodal experimental data**, and the development of **deployable research software** used in industrial and large-scale experimental environments. I work primarily with experimental data from imaging and diffraction techniques, designing methods that prioritise physical consistency, robustness, and practical utility.
 
 I have led and delivered **peer-reviewed research programmes** funded by **UKRI and the Royal Society** as technical lead and co-PI, translating short-cycle research projects into working methods and software used in experimental workflows.
 
