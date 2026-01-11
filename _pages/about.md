@@ -6,22 +6,28 @@ permalink: /
 profile:
   align: right
   image: prof_pic.png
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: 
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
+
+<div style="text-align: center; margin-bottom: 2rem;">
+  <img src="/assets/img/about/ndtomo_demo.gif"
+       alt="Handling hyperspectral imaging data with the nDTomo GUI"
+       style="max-width: 100%; width: 700px;">
+</div>
 
 I am a **research engineer** working on **machine-learning methods for scientific imaging and inverse problems**.
 
