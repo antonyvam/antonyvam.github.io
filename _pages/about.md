@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+subtitle: Royal Scoiety Industry Fellow at the <a href='https://www.imperial.ac.uk/design-engineering/'>Dyson School of Design Engineering at Imperial</a> and Research and Development Lead Scientist at <a href='https://www.finden.co.uk/'>Finden Ltd</a>
 
 profile:
   align: right
