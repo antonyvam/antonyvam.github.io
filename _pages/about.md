@@ -25,7 +25,7 @@ latest_posts:
 
 I am a **research engineer** developing **machine-learning methods for scientific imaging and inverse problems**.
 
-I am the creator and lead developer of [nDTomo](https://github.com/antonyvam/nDTomo), an open-source platform for chemical imaging and tomography, and of [Battery Imaging Library (BIL)](https://www.batteryimaginglibrary.com/), the first open-access, multi-modal and multi-length-scale imaging resource for battery research.
+I am the creator and lead developer of [nDTomo](https://github.com/antonyvam/nDTomo), an open-source platform for chemical imaging and tomography, and of the [Battery Imaging Library (BIL)](https://www.batteryimaginglibrary.com/), the first open-access, multi-modal and multi-length-scale imaging resource for battery research.
 
 My work focuses on **physics-informed learning**, **GAN-based generative models for multimodal experimental data**, and the development of **deployable research software** used in industry and academia. I work primarily with experimental data from imaging and diffraction techniques, designing methods that prioritise physical consistency, robustness, and practical utility.
 
