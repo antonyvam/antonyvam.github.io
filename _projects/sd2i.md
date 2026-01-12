@@ -1,8 +1,8 @@
 ---
-title: nDTomo
+title: SD2I
 description: The Single Digit to Image (SD2I) tensorflow-based image reconstruction tool.
 img: /assets/img/sd2i.png
-importance: 3
+importance: 6
 category: work
 
 # robust across al-folio variants:

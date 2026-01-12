@@ -1,5 +1,5 @@
 ---
-title: nDTomo
+title: Vulture
 description: Convolutional upsampling of DINOv2 features for weakly supervised segmentation.
 img: /assets/img/vulture.png
 importance: 3
