@@ -37,9 +37,29 @@ ninja.data = [{
               window.location.href = "/projects/battery-imaging-library/";
             },},{id: "projects-ndtomo",
           title: 'nDTomo',
+          description: "Upsampling spatialised features from vision transformer (ViT) models like DINOv2 for unsupervised and weakly-supervised materials segmentation.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/hrdv2/";
+            },},{id: "projects-ndtomo",
+          title: 'nDTomo',
           description: "A modular Python toolkit for X-ray chemical imaging and tomography (with a focus on hyperspectral modalities such as XRD-CT).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ndtomo/";
+            },},{id: "projects-ndtomo",
+          title: 'nDTomo',
+          description: "SAMBA is a trainable segmentation tool for materials science that uses deep learning for fast, high-quality labels and random forests for robust, generalizable segmentations.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/samba/";
+            },},{id: "projects-ndtomo",
+          title: 'nDTomo',
+          description: "The Single Digit to Image (SD2I) tensorflow-based image reconstruction tool.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sd2i/";
+            },},{id: "projects-ndtomo",
+          title: 'nDTomo',
+          description: "Convolutional upsampling of DINOv2 features for weakly supervised segmentation.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/vulture/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
