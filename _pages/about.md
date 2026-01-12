@@ -29,10 +29,6 @@ My work focuses on **physics-informed learning**, **GAN-based generative models 
 
 I have led and delivered **peer-reviewed research programmes** funded by **UKRI and the Royal Society** as technical lead and co-PI, translating short-cycle research projects into working methods and software used in experimental workflows.
 
-**Links**  
-- [GitHub](https://github.com/antonyvam)  
-- [Google Scholar](https://scholar.google.com/)  
-- [LinkedIn](https://www.linkedin.com/in/antonyvam/)
 
 <div style="text-align: center; margin-bottom: 2rem;">
   <img src="/assets/img/ndtomo_demo.gif"
