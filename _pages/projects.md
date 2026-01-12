@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Selected software and open-data projects.
+description: Selected software, code and open-data projects.
 nav: true
 nav_order: 2
 horizontal: false
