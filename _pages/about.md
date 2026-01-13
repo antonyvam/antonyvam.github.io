@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Royal Society Industry Fellow at the <a href='https://www.imperial.ac.uk/design-engineering/'>Dyson School of Design Engineering at Imperial College London</a> and the Research and Development Lead Scientist of <a href='https://www.finden.co.uk/'>Finden Ltd</a>
+subtitle: Royal Society Industry Fellow at the <a href='https://www.imperial.ac.uk/design-engineering/'>Dyson School of Design Engineering at Imperial College London</a> and R&D Lead Scientist of <a href='https://www.finden.co.uk/'>Finden Ltd</a>
 
 profile:
   align: right
