@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-23'
+  last_updated: '2026-01-26'
 papers:
   eObSAAkAAAAJ:1qzjygNMrQYC:
     citations: 5
@@ -18,7 +18,7 @@ papers:
     title: "Multi-length scale 5D diffraction imaging of Ni\u2013Pd/CeO 2\u2013ZrO 2/Al 2 O 3 catalyst during partial oxidation of methane"
     year: '2021'
   eObSAAkAAAAJ:738O_yMBCRsC:
-    citations: 114
+    citations: 115
     title: Spatial quantification of dynamic inter and intra particle crystallographic heterogeneities within lithium ion electrodes
     year: '2020'
   eObSAAkAAAAJ:7T2F9Uy0os0C:
@@ -38,7 +38,7 @@ papers:
     title: 'SAMBA: A Trainable Segmentation Web-App with Smart Labelling'
     year: '2024'
   eObSAAkAAAAJ:HE397vMXCloC:
-    citations: 49
+    citations: 51
     title: Imaging heterogeneous electrocatalyst stability and decoupling degradation mechanisms in operating hydrogen fuel cells
     year: '2021'
   eObSAAkAAAAJ:J-pR_7NvFogC:
@@ -102,7 +102,7 @@ papers:
     title: "Effect of thermal treatment on the stability of Na\u2013Mn\u2013W/SiO2 catalyst for the oxidative coupling of methane"
     year: '2020'
   eObSAAkAAAAJ:WqliGbK-hY8C:
-    citations: 34
+    citations: 35
     title: Emerging chemical heterogeneities in a commercial 18650 NCA Li-ion battery during early cycling revealed by synchrotron X-ray diffraction tomography
     year: '2022'
   eObSAAkAAAAJ:XD-gHx7UXLsC:
@@ -110,7 +110,7 @@ papers:
     title: Acute deformation characteristics of standard and flexible lithium-ion battery electrodes
     year: '2026'
   eObSAAkAAAAJ:XiVPGOgt02cC:
-    citations: 64
+    citations: 65
     title: A deep convolutional neural network for real-time full profile analysis of big powder diffraction data
     year: '2021'
   eObSAAkAAAAJ:Y5dfb0dijaUC:
@@ -206,7 +206,7 @@ papers:
     title: 'Maybe you don''t need a U-Net: convolutional feature upsampling for materials micrograph segmentation'
     year: '2025'
   eObSAAkAAAAJ:uWQEDVKXjbEC:
-    citations: 55
+    citations: 56
     title: X-ray transparent proton-exchange membrane fuel cell design for in situ wide and small angle scattering tomography
     year: '2019'
   eObSAAkAAAAJ:xtRiw3GOFMkC:
