@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-26'
+  last_updated: '2026-01-30'
 papers:
   eObSAAkAAAAJ:1qzjygNMrQYC:
     citations: 5
@@ -10,7 +10,7 @@ papers:
     title: Design of next-generation ceramic fuel cells and real-time characterization with synchrotron X-ray diffraction computed tomography
     year: '2019'
   eObSAAkAAAAJ:1yQoGdGgb4wC:
-    citations: 6
+    citations: 7
     title: A scalable neural network architecture for self-supervised tomographic image reconstruction
     year: '2023'
   eObSAAkAAAAJ:5ugPr518TE4C:
@@ -110,7 +110,7 @@ papers:
     title: Acute deformation characteristics of standard and flexible lithium-ion battery electrodes
     year: '2026'
   eObSAAkAAAAJ:XiVPGOgt02cC:
-    citations: 65
+    citations: 66
     title: A deep convolutional neural network for real-time full profile analysis of big powder diffraction data
     year: '2021'
   eObSAAkAAAAJ:Y5dfb0dijaUC:
@@ -134,7 +134,7 @@ papers:
     title: X-Ray Diffraction Computed Tomography (XRD-CT) Experiments on a Working Magnetic Induction Reaction during CO2 Conversion
     year: '2025'
   eObSAAkAAAAJ:_Ybze24A_UAC:
-    citations: 7
+    citations: 9
     title: Chemical Imaging of Carbide Formation and Its Effect on Alcohol Selectivity in Fischer Tropsch Synthesis on Mn-Doped Co/TiO2 Pellets
     year: '2024'
   eObSAAkAAAAJ:_xSYboBqXhAC:
