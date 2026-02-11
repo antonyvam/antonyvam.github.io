@@ -8,9 +8,7 @@ middle_name: (Antony)
 last_name: Vamvakeros
 contact_note: Feel free to reach out to me via email or connect on LinkedIn.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Research engineer working on machine-learning methods for scientific imaging and inverse problems,
-  with a focus on physics-informed learning, GAN-based generative models for multimodal experimental data,
-  and deployable research software.
+  Research engineer and applied scientist working on machine-learning methods for scientific data.
 footer_text: >
   © Antony Vamvakeros. Built with Jekyll and hosted on GitHub Pages.
 keywords:  scientific machine learning, inverse problems, tomography, chemical imaging, GANs, XRD-CT, neutron tomography
