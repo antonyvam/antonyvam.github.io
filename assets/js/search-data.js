@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-dissemination",
+          title: "dissemination",
+          description: "Various dissemination activities in reversed chronological order",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/dissemination/";
+          },
         },{id: "projects-battery-imaging-library-bil",
           title: 'Battery Imaging Library (BIL)',
           description: "An open, multi-modal, multi-length-scale dataset hub for battery imaging (CT, XRD-CT, SEM/EDX, EBSD and more), designed for benchmarking and teaching.",
