@@ -38,7 +38,7 @@ ninja.data = [{
             window.location.href = "/dissemination/";
           },
         },{id: "nav-highlighted-research",
-          title: "Highlighted Research",
+          title: "highlighted research",
           description: "",
           section: "Navigation",
           handler: () => {
