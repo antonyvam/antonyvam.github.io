@@ -51,3 +51,36 @@ nav_order: 5
 * **17th European Powder Diffraction Conference** (06/2022, Šibenik, Croatia)
 * **Heterogeneous Catalysts for Sustainable Industry**, Royal Society of Chemistry (11/2019, London, UK)
 * **Euromat 2017** (09/2017, Thessaloniki, Greece)
+
+---
+
+## Greek Synchrotron User Network
+As a **Founding Member** (2022) and member of the core team, I led a national effort to integrate Greece as an ESRF member country. My responsibilities included:
+* **Industry Relations:** Led communications between the network and Greek industry; responsible for acquiring formal support letters from companies and stakeholders.
+* **Digital Strategy:** Developed content for the initiative's official website: [www.esrf.gr](https://www.esrf.gr/).
+* **Science Communication:** Promoting the network’s initiative and synchrotron research across social media (Twitter, LinkedIn, and Facebook).
+
+
+---
+
+## Mentorship
+* **Invited Speaker:** "From catalysis to deep learning: Journey of a chemical engineer," Careers & Employability Conference, Department of Chemical & Biological Engineering, University of Sheffield (October 2021).
+* **Industrial Mentor:** Provided 1-1 career guidance and appointments for undergraduate students, sharing insights from the intersection of industry and academia (October 2021).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
