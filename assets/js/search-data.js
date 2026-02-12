@@ -9,12 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
-          title: "projects",
-          description: "Selected software, code and open-data projects.",
+  },{id: "nav-code-amp-data",
+          title: "code &amp; data",
+          description: "Selected software, code and open-access data projects.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/code%20&%20data/";
           },
         },{id: "nav-publications",
           title: "publications",
