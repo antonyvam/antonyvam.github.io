@@ -10,7 +10,7 @@ nav_order: 8
 
 I have extensive experience designing and delivering specialized curricula for both industrial partners and leading academic institutions.
 
-* **Main Lecturer and Designer**: Developed and led Finden’s "Chemical Imaging and Tomography" training course, tailored for both industry and academia.
+* **Main Lecturer**: Developed and led Finden’s ["Chemical Imaging and Tomography"](https://www.finden.co.uk/courses/) training course, tailored for both industry and academia.
 * **Guest Lecturer - Engineering Mathematics**: Delivering the undergraduate module at the [Dyson School of Design Engineering, Imperial College London](https://www.imperial.ac.uk/design-engineering/).
 * **Guest Lecturer - Multi-scale 3D Analysis**: Delivering the module at the [Institute for Molecular Science and Engineering, Imperial College London](https://www.imperial.ac.uk/molecular-science-engineering/) for Master’s students.
 
@@ -18,7 +18,7 @@ I have extensive experience designing and delivering specialized curricula for b
 
 ## Supervision
 
-I actively supervise research students across various levels, bridging industrial R&D at Finden Ltd with academic projects at Imperial College and UCL.
+I actively supervise research students across various levels, bridging industrial R&D at Finden Ltd with academic projects at Imperial and UCL.
 
 ### Doctoral Supervision
 * **Ronan Docherty** (Nov 2022 – present): Second supervisor to PhD student, Dyson School of Design Engineering, Imperial College London.
