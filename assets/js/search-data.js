@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "Selected software, code and open-access data projects.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -65,7 +65,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "projects-battery-imaging-library-bil",
+        },{id: "projects-five-dimensional-imaging",
+          title: 'Five-dimensional Imaging',
+          description: "5D operando tomographic diffraction imaging using the continuous rotation-translation approach.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5d/";
+            },},{id: "projects-battery-imaging-library-bil",
           title: 'Battery Imaging Library (BIL)',
           description: "An open, multi-modal, multi-length-scale dataset hub for battery imaging (X-ray CT, XRD-CT, SEM/EDX, EBSD and many more), designed for benchmarking and teaching.",
           section: "Projects",handler: () => {
