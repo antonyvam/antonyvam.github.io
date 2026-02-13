@@ -2,7 +2,6 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Selected software, code and open-access data projects.
 nav: true
 nav_order: 2
 horizontal: false
@@ -11,7 +10,7 @@ horizontal: false
 <div class="projects">
 
   <h1 class="display-4 font-weight-bold" style="color: black;">Computational Work</h1>
-  <p class="lead">Advancing chemical imaging through algorithms and open-source tools.</p>
+  <p class="lead">Advancing chemical imaging and tomography through new algorithms and machine learning approaches.</p>
 
   <h2 class="category mt-4" style="color: black !important; border-bottom: 1px solid #333; padding-bottom: 5px;">Software</h2>
   {% assign software = site.projects | where: "category", "Software" | sort: "importance" %}
