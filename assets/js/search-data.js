@@ -77,7 +77,7 @@ ninja.data = [{
               window.location.href = "/projects/battery-imaging-library/";
             },},{id: "projects-spatial-quantification-of-dynamic-inter-and-intra-particle-crystallographic-heterogeneities-within-lithium-ion-electrodes",
           title: 'Spatial quantification of dynamic inter and intra particle crystallographic heterogeneities within lithium ion...',
-          description: "operando high-resolution X-ray diffraction-computed tomography is used to spatially and temporally quantify crystallographic heterogeneities within and between particles throughout both fresh and degraded LixMn2O4 electrodes.",
+          description: "Operando high-resolution X-ray diffraction-computed tomography is used to spatially and temporally quantify crystallographic heterogeneities within and between particles throughout both fresh and degraded LixMn2O4 electrodes.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/battery_lmo/";
             },},{id: "projects-revealing-chemical-heterogeneities-inside-an-intact-18650-nca-li-ion-battery-during-cycling",
@@ -90,6 +90,11 @@ ninja.data = [{
           description: "First XRD-CT study using cylindrical Li-ion batteries",
           section: "Projects",handler: () => {
               window.location.href = "/projects/battery_nmc532_10440/";
+            },},{id: "projects-spatially-resolving-lithiation-in-silicon-graphite-composite-electrodes-via-in-situ-high-energy-x-ray-diffraction-computed-tomography",
+          title: 'Spatially Resolving Lithiation in Silicon–Graphite Composite Electrodes via in Situ High-Energy X-ray Diffraction...',
+          description: "Combined high-speed XRD and XRD-CT to probe crystallographic heterogeneities within Li-ion electrodes with a spatial resolution of 1 μm.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/battery_sig/";
             },},{id: "projects-beamstop",
           title: 'Beamstop',
           description: "Finden’s first commercial software for chemical imaging and tomography data.",
