@@ -1,6 +1,6 @@
 ---
 layout: page
-title: highlighted research
+title: highlights
 permalink: /highlights/
 nav: true
 nav_order: 6
