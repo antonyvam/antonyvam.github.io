@@ -130,6 +130,11 @@ ninja.data = [{
           description: "A modular Python toolkit for X-ray chemical imaging and tomography (with a focus on hyperspectral modalities such as XRD-CT).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ndtomo/";
+            },},{id: "projects-multi-length-scale-chemical-tomography-of-an-operating-catalyst-bed",
+          title: 'Multi-length scale chemical tomography of an operating catalyst bed',
+          description: "Operando spatially-resolved experiments performed with XRD-CT (catalytic reactor) and multi-modal μ-XRF/XRD/absorption CT (single catalyst particle) during the oxidative coupling of methane reaction.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ocm/";
             },},{id: "projects-parallaxnet",
           title: 'ParallaxNet',
           description: "Eliminate parallax artefacts present in X-ray powder diffraction computed tomography data acquired from large samples.",
