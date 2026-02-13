@@ -55,7 +55,7 @@ nav_order: 5
 ---
 
 ## Greek Synchrotron User Network
-As a **Founding Member** (2022) and member of the core team, I led a national effort to integrate Greece as an ESRF member country. My responsibilities included:
+**Founding member** of the Greek Synchrotron User Network (2022) and member of the core team of Greek scientists and academics leading a national effort to make Greece an ESRF member country. My responsibilities included:
 * **Industry Relations:** Led communications between the network and Greek industry; responsible for acquiring formal support letters from companies and stakeholders.
 * **Digital Strategy:** Developed content for the initiative's official website: [www.esrf.gr](https://www.esrf.gr/).
 * **Science Communication:** Promoting the network’s initiative and synchrotron research across social media (Twitter, LinkedIn, and Facebook).
