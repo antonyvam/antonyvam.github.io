@@ -67,7 +67,7 @@ ninja.data = [{
           },
         },{id: "projects-five-dimensional-imaging",
           title: 'Five-dimensional Imaging',
-          description: "5D operando tomographic diffraction imaging using the continuous rotation-translation approach.",
+          description: "First 5D operando tomographic diffraction imaging achieved using a continuous rotation-translation approach.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5d/";
             },},{id: "projects-battery-imaging-library-bil",
@@ -75,6 +75,11 @@ ninja.data = [{
           description: "An open, multi-modal, multi-length-scale dataset hub for battery imaging (X-ray CT, XRD-CT, SEM/EDX, EBSD and many more), designed for benchmarking and teaching.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/battery-imaging-library/";
+            },},{id: "projects-revealing-chemical-heterogeneities-inside-an-intact-18650-nca-li-ion-battery-during-cycling",
+          title: 'Revealing chemical heterogeneities inside an intact 18650 NCA Li-ion battery during cycling',
+          description: "First dynamic XRD-CT experiment with a cylindrical Li-ion battery",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/battery_nca_18650/";
             },},{id: "projects-beamstop",
           title: 'Beamstop',
           description: "Finden’s first commercial software for chemical imaging and tomography data.",
