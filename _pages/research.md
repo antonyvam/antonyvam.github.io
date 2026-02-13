@@ -34,7 +34,7 @@ hide_title: true
   <hr class="mt-5 mb-5" style="border-top: 3px solid #000;">
 
   <h1 class="display-4 font-weight-bold" style="color: black;">Experimental Work</h1>
-  <p class="lead">Multi-scale characterisation of functional materials and devices.</p>
+  <p class="lead">Multi-scale characterisation of functional materials and devices. Below are some exemplar studies. </p>
 
   <h2 class="category mt-4" style="color: black !important; border-bottom: 1px solid #333; padding-bottom: 5px;">Li-ion Batteries</h2>
   {% assign batteries = site.projects | where: "category", "Li-ion Batteries" | sort: "importance" %}
