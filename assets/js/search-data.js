@@ -145,6 +145,11 @@ ninja.data = [{
           description: "First dynamic XRD-CT experiment with a PEM fuel cell",
           section: "Projects",handler: () => {
               window.location.href = "/projects/pemfc/";
+            },},{id: "projects-multi-length-scale-5d-diffraction-imaging-of-a-catalyst-bed",
+          title: 'Multi-length scale 5D diffraction imaging of a catalyst bed',
+          description: "Operando XRD spatially-resolved experiment of a catalytic reactor during the partial oxidation of methane reaction.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pox/";
             },},{id: "projects-pq-net",
           title: 'PQ-Net',
           description: "A deep convolutional neural network for real-time full profile analysis of big powder diffraction data.",
