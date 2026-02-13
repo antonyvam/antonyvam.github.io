@@ -11,10 +11,10 @@ nav_order: 6
 
 I was honored to be part of the team recognized for the development and application of X-ray diffraction computed tomography (XRD-CT). My work played a pivotal role in evolving this technique into a cutting-edge tool for looking inside functional materials like batteries and catalysts in real-time.
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row mt-3 justify-content-center">
+    <div class="col-md-10 mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/A2n7wjA0SNg" class="img-fluid rounded z-depth-1" %}
-        <div class="caption">
+        <div class="caption text-center">
             <strong>RSC Horizon Prize: The XRD-CT Pioneers</strong> <br>
             A video overview of the technology and research that led to the Sir George Stokes Prize.
         </div>
