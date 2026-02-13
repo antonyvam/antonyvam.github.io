@@ -45,14 +45,14 @@ ninja.data = [{
             window.location.href = "/highlights/";
           },
         },{id: "nav-webinars",
-          title: "Webinars",
+          title: "webinars",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/webinars/";
           },
         },{id: "nav-awards",
-          title: "Awards",
+          title: "awards",
           description: "",
           section: "Navigation",
           handler: () => {
