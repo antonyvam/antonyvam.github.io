@@ -2,7 +2,7 @@
 title: Imaging Heterogeneous Electrocatalyst Stability and Decoupling Degradation Mechanisms in Operating Hydrogen Fuel Cells
 description: First dynamic XRD-CT experiment with a PEM fuel cell
 img: /assets/img/pemfc.jpeg
-importance: 1
+importance: 2
 category: Fuel Cells and Membrane Reactors
 
 # robust across al-folio variants:
