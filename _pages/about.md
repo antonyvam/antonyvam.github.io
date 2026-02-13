@@ -6,7 +6,7 @@ subtitle: Royal Society Industry Fellow at the <a href='https://www.imperial.ac.
 
 profile:
   align: right
-  image: prof_pic.png
+  image: rsav.png
   image_circular: false
   more_info: 
 
