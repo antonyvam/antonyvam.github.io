@@ -65,7 +65,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "projects-five-dimensional-imaging",
+        },{id: "projects-xrd-ct-study-of-3d-printed-commercial-and-non-commercial-catalysts",
+          title: 'XRD-CT study of 3D printed commercial and non-commercial catalysts',
+          description: "3D printed Ni/Al2O3 based catalysts for CO2 methanation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3dprinted/";
+            },},{id: "projects-five-dimensional-imaging",
           title: 'Five-dimensional Imaging',
           description: "First 5D operando tomographic diffraction imaging achieved using a continuous rotation-translation approach.",
           section: "Projects",handler: () => {
