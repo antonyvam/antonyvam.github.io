@@ -12,12 +12,6 @@ horizontal: false
   <h1 class="display-4 font-weight-bold" style="color: black;">Computational Work</h1>
   <p class="lead">Advancing chemical imaging and tomography through new algorithms and machine learning approaches.</p>
 
-  <h2 class="category mt-4" style="color: black !important; border-bottom: 1px solid #333; padding-bottom: 5px;">Software</h2>
-  {% assign software = site.projects | where: "category", "Software" | sort: "importance" %}
-  <div class="row row-cols-1 row-cols-md-2">
-    {% for project in software %}{% include projects.liquid %}{% endfor %}
-  </div>
-
   <h2 class="category mt-4" style="color: black !important; border-bottom: 1px solid #333; padding-bottom: 5px;">Code</h2>
   {% assign code = site.projects | where: "category", "Code" | sort: "importance" %}
   <div class="row row-cols-1 row-cols-md-2">
@@ -28,6 +22,12 @@ horizontal: false
   {% assign data = site.projects | where: "category", "Data" | sort: "importance" %}
   <div class="row row-cols-1 row-cols-md-2">
     {% for project in data %}{% include projects.liquid %}{% endfor %}
+  </div>
+
+  <h2 class="category mt-4" style="color: black !important; border-bottom: 1px solid #333; padding-bottom: 5px;">Software</h2>
+  {% assign software = site.projects | where: "category", "Software" | sort: "importance" %}
+  <div class="row row-cols-1 row-cols-md-2">
+    {% for project in software %}{% include projects.liquid %}{% endfor %}
   </div>
 
   <hr class="mt-5 mb-5" style="border-top: 3px solid #000;">
