@@ -28,9 +28,9 @@ I am a **research engineer** and **applied scientist** developing **machine-lear
 
 I am the creator and lead developer of [nDTomo](https://github.com/antonyvam/nDTomo), an open-source platform for chemical imaging and tomography, and of the [Battery Imaging Library (BIL)](https://www.batteryimaginglibrary.com/), the first open-access, multi-modal and multi-length-scale imaging resource for battery research.
 
-My work focuses on **physics-informed learning**, **GAN and flow-matching generative models for multimodal experimental data**, and the development of **deployable research software** used in industry and academia. I work primarily with experimental data from imaging and diffraction/spectroscopic techniques, designing methods that prioritise physical consistency, robustness, and practical utility.
+My work focuses on physics-informed learning, GAN and flow-matching generative models for multimodal experimental data, and the development of deployable research software used in industry and academia. I work primarily with experimental data from imaging and diffraction/spectroscopic techniques, designing methods that prioritise physical consistency, robustness, and practical utility.
 
-I have led and delivered multiple **research programmes** funded by **UKRI** as technical lead and co-PI, translating research projects into working methods and software used in experimental workflows.
+I have led and delivered multiple research programmes funded by UKRI as **technical lead** and **co-PI**, translating research projects into working methods and software used in experimental workflows.
 
 
 <div style="text-align: center; margin-bottom: 2rem;">
