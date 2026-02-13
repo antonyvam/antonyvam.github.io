@@ -75,6 +75,16 @@ ninja.data = [{
           description: "Finden’s first commercial software for chemical imaging and tomography data.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/beamstop/";
+            },},{id: "projects-dlsr",
+          title: 'DLSR',
+          description: "A solution to the parallax artefact in X-ray diffraction computed tomography data.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dlsr/";
+            },},{id: "projects-single-crystal-diffraction-artefacts",
+          title: 'Single-crystal diffraction artefacts',
+          description: "Removing multiple outliers and single-crystal artefacts from X-ray diffraction computed tomography data.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/filters/";
             },},{id: "projects-high-res-dinov2",
           title: 'High-Res DINOv2',
           description: "Upsampling spatialised features from vision transformer (ViT) models like DINOv2 for unsupervised and weakly-supervised materials segmentation.",
@@ -85,6 +95,16 @@ ninja.data = [{
           description: "A modular Python toolkit for X-ray chemical imaging and tomography (with a focus on hyperspectral modalities such as XRD-CT).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ndtomo/";
+            },},{id: "projects-parallaxnet",
+          title: 'ParallaxNet',
+          description: "Eliminate parallax artefacts present in X-ray powder diffraction computed tomography data acquired from large samples.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/parallaxnet/";
+            },},{id: "projects-pq-net",
+          title: 'PQ-Net',
+          description: "A deep convolutional neural network for real-time full profile analysis of big powder diffraction data.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pqnet/";
             },},{id: "projects-samba",
           title: 'SAMBA',
           description: "SAMBA is a trainable segmentation tool for materials science that uses deep learning for fast, high-quality labels and random forests for robust, generalizable segmentations.",
