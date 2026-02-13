@@ -10,22 +10,30 @@ nav_order: 7
 
 I regularly present my work on chemical imaging and machine learning at international seminars and industrial workshops. Below are some of my featured technical webinars.
 
-<div style="max-width: 100%; width: 1000px; margin: 40px auto;">
-    {% include video.liquid path="https://www.youtube.com/embed/hiOSvpZv0Zw" class="img-fluid rounded z-depth-1" %}
-    <div class="caption text-center mt-3">
-        <h4 style="margin-bottom: 5px;">Advanced Battery Characterisation with Unconventional X-ray Tomography</h4>
-        <p>A detailed overview of using chemical tomography to study real industrial battery devices.</p>
+<div style="width: 100%; margin: 40px auto; text-align: center;">
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+        <iframe src="https://www.youtube.com/embed/hiOSvpZv0Zw" 
+                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+                allowfullscreen title="Advanced Battery Characterisation"></iframe>
+    </div>
+    <div class="caption mt-3">
+        <h3>Advanced Battery Characterisation with Unconventional X-ray Tomography</h3>
+        [cite_start]<p>A detailed overview of using chemical tomography to study real industrial battery devices.</p>
         <p><em>Battery Pub (Volta Foundation), January 2024</em></p>
     </div>
 </div>
 
-<hr style="margin: 60px 0;">
+<hr style="margin: 60px 0; border: 0; border-top: 1px solid #eee;">
 
-<div style="max-width: 100%; width: 1000px; margin: 40px auto;">
-    {% include video.liquid path="https://www.youtube.com/embed/HurugJjGnrU" class="img-fluid rounded z-depth-1" %}
-    <div class="caption text-center mt-3">
-        <h4 style="margin-bottom: 5px;">Chemical Tomography and Neural Networks</h4>
-        <p>Discussing the intersection of chemical imaging and deep learning for materials science.</p>
+<div style="width: 100%; margin: 40px auto; text-align: center;">
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+        <iframe src="https://www.youtube.com/embed/HurugJjGnrU" 
+                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+                allowfullscreen title="Chemical Tomography and Neural Networks"></iframe>
+    </div>
+    <div class="caption mt-3">
+        <h3>Chemical Tomography and Neural Networks</h3>
+        [cite_start]<p>Discussing the intersection of chemical imaging and deep learning for materials science.</p>
         <p><em>CNRS NEEL Institut (France), May 2021</em></p>
     </div>
 </div>
