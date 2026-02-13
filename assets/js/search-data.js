@@ -67,9 +67,14 @@ ninja.data = [{
           },
         },{id: "projects-battery-imaging-library-bil",
           title: 'Battery Imaging Library (BIL)',
-          description: "An open, multi-modal, multi-length-scale dataset hub for battery imaging (CT, XRD-CT, SEM/EDX, EBSD and more), designed for benchmarking and teaching.",
+          description: "An open, multi-modal, multi-length-scale dataset hub for battery imaging (X-ray CT, XRD-CT, SEM/EDX, EBSD and many more), designed for benchmarking and teaching.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/battery-imaging-library/";
+            },},{id: "projects-beamstop",
+          title: 'Beamstop',
+          description: "Finden’s first commercial software for chemical imaging and tomography data.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/beamstop/";
             },},{id: "projects-high-res-dinov2",
           title: 'High-Res DINOv2',
           description: "Upsampling spatialised features from vision transformer (ViT) models like DINOv2 for unsupervised and weakly-supervised materials segmentation.",
