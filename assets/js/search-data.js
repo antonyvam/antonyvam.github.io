@@ -52,7 +52,7 @@ ninja.data = [{
             window.location.href = "/webinars/";
           },
         },{id: "nav-education",
-          title: "Education",
+          title: "education",
           description: "",
           section: "Navigation",
           handler: () => {
