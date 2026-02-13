@@ -100,6 +100,11 @@ ninja.data = [{
           description: "Finden’s first commercial software for chemical imaging and tomography data.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/beamstop/";
+            },},{id: "projects-operando-xrd-ct-of-catalytic-membrane-reactors",
+          title: 'Operando XRD-CT of catalytic membrane reactors',
+          description: "Investigation of catalytic membrane reactors during the oxidative coupling of methane reaction",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cmr/";
             },},{id: "projects-dlsr",
           title: 'DLSR',
           description: "A solution to the parallax artefact in X-ray diffraction computed tomography data.",
