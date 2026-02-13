@@ -135,6 +135,11 @@ ninja.data = [{
           description: "Eliminate parallax artefacts present in X-ray powder diffraction computed tomography data acquired from large samples.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/parallaxnet/";
+            },},{id: "projects-imaging-heterogeneous-electrocatalyst-stability-and-decoupling-degradation-mechanisms-in-operating-hydrogen-fuel-cells",
+          title: 'Imaging Heterogeneous Electrocatalyst Stability and Decoupling Degradation Mechanisms in Operating Hydrogen Fuel Cells...',
+          description: "First dynamic XRD-CT experiment with a PEM fuel cell",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pemfc/";
             },},{id: "projects-pq-net",
           title: 'PQ-Net',
           description: "A deep convolutional neural network for real-time full profile analysis of big powder diffraction data.",
