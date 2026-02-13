@@ -17,8 +17,8 @@ I regularly present my work on chemical imaging and machine learning at internat
                 allowfullscreen title="Advanced Battery Characterisation"></iframe>
     </div>
     <div class="caption mt-3">
-        <h3>Advanced Battery Characterisation with Unconventional X-ray Tomography</h3>
-        [cite_start]<p>A detailed overview of using chemical tomography to study real industrial battery devices.</p>
+        <strong>Advanced Battery Characterisation with Unconventional X-ray Tomography</strong>
+        <p>A detailed overview of using chemical tomography to study real industrial battery devices.</p>
         <p><em>Battery Pub (Volta Foundation), January 2024</em></p>
     </div>
 </div>
@@ -32,8 +32,8 @@ I regularly present my work on chemical imaging and machine learning at internat
                 allowfullscreen title="Chemical Tomography and Neural Networks"></iframe>
     </div>
     <div class="caption mt-3">
-        <h3>Chemical Tomography and Neural Networks</h3>
-        [cite_start]<p>Discussing the intersection of chemical imaging and deep learning for materials science.</p>
+        <strong>Chemical Tomography and Neural Networks</strong>
+        <p>Discussing the intersection of chemical imaging and deep learning for materials science.</p>
         <p><em>CNRS NEEL Institut (France), May 2021</em></p>
     </div>
 </div>
