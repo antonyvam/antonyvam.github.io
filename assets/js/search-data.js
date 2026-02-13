@@ -80,6 +80,11 @@ ninja.data = [{
           description: "First dynamic XRD-CT experiment with a cylindrical Li-ion battery",
           section: "Projects",handler: () => {
               window.location.href = "/projects/battery_nca_18650/";
+            },},{id: "projects-cycling-rate-induced-spatially-resolved-heterogeneities-in-commercial-cylindrical-li-ion-batteries",
+          title: 'Cycling Rate-Induced Spatially-Resolved Heterogeneities in Commercial Cylindrical Li-Ion Batteries',
+          description: "First XRD-CT study using cylindrical Li-ion batteries",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/battery_nmc532_10440/";
             },},{id: "projects-beamstop",
           title: 'Beamstop',
           description: "Finden’s first commercial software for chemical imaging and tomography data.",
