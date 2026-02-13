@@ -6,8 +6,6 @@ nav: true
 nav_order: 7
 ---
 
-## featured webinars
-
 I regularly present my work on chemical imaging and machine learning at international seminars and industrial workshops. Below are some of my featured technical webinars.
 
 <div style="width: 100%; margin: 40px auto; text-align: center;">
