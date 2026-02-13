@@ -23,12 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-cv",
-          title: "cv",
+        },{id: "nav-highlights",
+          title: "highlights",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/highlights/";
           },
         },{id: "nav-dissemination",
           title: "dissemination",
@@ -37,12 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/dissemination/";
           },
-        },{id: "nav-highlights",
-          title: "highlights",
+        },{id: "nav-awards",
+          title: "awards",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/highlights/";
+            window.location.href = "/awards/";
           },
         },{id: "nav-webinars",
           title: "webinars",
@@ -51,12 +51,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/webinars/";
           },
-        },{id: "nav-awards",
-          title: "awards",
+        },{id: "nav-education",
+          title: "Education",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/awards/";
+            window.location.href = "/education/";
+          },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
           },
         },{id: "projects-battery-imaging-library-bil",
           title: 'Battery Imaging Library (BIL)',
