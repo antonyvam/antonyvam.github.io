@@ -95,6 +95,11 @@ ninja.data = [{
           description: "Upsampling spatialised features from vision transformer (ViT) models like DINOv2 for unsupervised and weakly-supervised materials segmentation.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/hrdv2/";
+            },},{id: "projects-interlaced-x-ray-diffraction-computed-tomography",
+          title: 'Interlaced X-ray diffraction computed tomography',
+          description: "A data-collection strategy that allows, post experiment, a choice between temporal and spatial resolution.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/interlaced/";
             },},{id: "projects-ndtomo",
           title: 'nDTomo',
           description: "A modular Python toolkit for X-ray chemical imaging and tomography (with a focus on hyperspectral modalities such as XRD-CT).",
