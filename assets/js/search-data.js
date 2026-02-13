@@ -75,6 +75,11 @@ ninja.data = [{
           description: "An open, multi-modal, multi-length-scale dataset hub for battery imaging (X-ray CT, XRD-CT, SEM/EDX, EBSD and many more), designed for benchmarking and teaching.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/battery-imaging-library/";
+            },},{id: "projects-spatial-quantification-of-dynamic-inter-and-intra-particle-crystallographic-heterogeneities-within-lithium-ion-electrodes",
+          title: 'Spatial quantification of dynamic inter and intra particle crystallographic heterogeneities within lithium ion...',
+          description: "operando high-resolution X-ray diffraction-computed tomography is used to spatially and temporally quantify crystallographic heterogeneities within and between particles throughout both fresh and degraded LixMn2O4 electrodes.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/battery_lmo/";
             },},{id: "projects-revealing-chemical-heterogeneities-inside-an-intact-18650-nca-li-ion-battery-during-cycling",
           title: 'Revealing chemical heterogeneities inside an intact 18650 NCA Li-ion battery during cycling',
           description: "First dynamic XRD-CT experiment with a cylindrical Li-ion battery",
