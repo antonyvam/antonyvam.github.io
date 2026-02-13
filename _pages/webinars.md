@@ -11,7 +11,7 @@ nav_order: 7
 I regularly present my work on chemical imaging and machine learning at international seminars and industrial workshops. Below are some of my featured technical webinars.
 
 <div class="row mt-3 justify-content-center">
-    <div class="col-md-10 mt-3">
+    <div class="col-md-10 col-lg-8 mt-3">
         {% include video.liquid path="https://www.youtube.com/embed/hiOSvpZv0Zw" class="img-fluid rounded z-depth-1" %}
         <div class="caption text-center">
             <strong>Advanced Battery Characterisation with Unconventional X-ray Tomography</strong> <br>
@@ -21,12 +21,14 @@ I regularly present my work on chemical imaging and machine learning at internat
     </div>
 </div>
 
+<br>
+
 <div class="row mt-3 justify-content-center">
-    <div class="col-md-10 mt-3">
+    <div class="col-md-10 col-lg-8 mt-3">
         {% include video.liquid path="https://www.youtube.com/embed/HurugJjGnrU" class="img-fluid rounded z-depth-1" %}
         <div class="caption text-center">
             <strong>Chemical Tomography and Neural Networks</strong> <br>
-            Discussing the intersection of chemical imaging and deep learning for materials science. <br>
+            Discussing the intersection of high-resolution imaging and deep learning for materials science. <br>
             <em>CNRS NEEL Institut (France), May 2021.</em>
         </div>
     </div>
