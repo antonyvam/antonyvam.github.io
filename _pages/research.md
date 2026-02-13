@@ -5,6 +5,7 @@ permalink: /research/
 nav: true
 nav_order: 2
 horizontal: false
+hide_title: true
 ---
 
 <div class="projects">

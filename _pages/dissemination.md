@@ -5,6 +5,7 @@ permalink: /dissemination/
 description: Various dissemination activities in reversed chronological order
 nav: true
 nav_order: 5
+hide_title: true
 ---
 
 ## Invited Speaker

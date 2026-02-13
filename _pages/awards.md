@@ -4,6 +4,7 @@ title: awards
 permalink: /awards/
 nav: true
 nav_order: 6
+hide_title: true
 ---
 
 ## Royal Society of Chemistry 2023 Analytical Science Horizon Prize

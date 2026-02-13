@@ -4,6 +4,7 @@ title: cv
 permalink: /cv/
 nav: true
 nav_order: 9
+hide_title: true
 ---
 
 [Download CV (PDF)](/assets/pdf/CV_AV.pdf)

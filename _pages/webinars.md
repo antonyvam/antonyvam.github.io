@@ -4,6 +4,7 @@ title: webinars
 permalink: /webinars/
 nav: true
 nav_order: 7
+hide_title: true
 ---
 
 I regularly present my work on chemical imaging and machine learning at international seminars and industrial workshops. Below are some of my featured technical webinars.
