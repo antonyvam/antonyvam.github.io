@@ -3,7 +3,7 @@ title: Vulture
 description: Convolutional upsampling of DINOv2 features for weakly supervised segmentation.
 img: /assets/img/vulture.png
 importance: 3
-category: work
+category: Code
 
 # robust across al-folio variants:
 github: https://github.com/tldr-group/vulture

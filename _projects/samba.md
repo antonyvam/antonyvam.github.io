@@ -3,7 +3,7 @@ title: SAMBA
 description: SAMBA is a trainable segmentation tool for materials science that uses deep learning for fast, high-quality labels and random forests for robust, generalizable segmentations.
 img: /assets/img/samba.gif
 importance: 5
-category: work
+category: Code
 
 # robust across al-folio variants:
 github: https://github.com/tldr-group/samba-web

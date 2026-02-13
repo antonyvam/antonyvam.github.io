@@ -3,7 +3,7 @@ title: High-Res DINOv2
 description: Upsampling spatialised features from vision transformer (ViT) models like DINOv2 for unsupervised and weakly-supervised materials segmentation.
 img: /assets/img/hrdv2.png
 importance: 4
-category: work
+category: Code
 
 # robust across al-folio variants:
 github: https://github.com/tldr-group/HR-Dv2
