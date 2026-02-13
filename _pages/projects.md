@@ -1,7 +1,7 @@
 ---
 layout: page
-title: code & data
-permalink: /code & data/
+title: projects
+permalink: /projects/
 description: Selected software, code and open-access data projects.
 nav: true
 nav_order: 2

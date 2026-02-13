@@ -12,7 +12,7 @@ I have extensive experience designing and delivering specialized curricula for b
 
 * **Main Lecturer and Designer**: Developed and led Finden’s "Chemical Imaging and Tomography" training course, tailored for both industry and academia.
 * **Guest Lecturer - Engineering Mathematics**: Delivering the undergraduate module at the [Dyson School of Design Engineering, Imperial College London](https://www.imperial.ac.uk/design-engineering/).
-* **Guest Lecturer - Multi-scale 3D Analysis**: Delivering the module at the [Institute for Molecular Science and Engineering](https://www.imperial.ac.uk/molecular-science-engineering/) for Master’s students.
+* **Guest Lecturer - Multi-scale 3D Analysis**: Delivering the module at the [Institute for Molecular Science and Engineering, Imperial College London](https://www.imperial.ac.uk/molecular-science-engineering/) for Master’s students.
 
 ---
 
