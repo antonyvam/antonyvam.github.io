@@ -145,6 +145,11 @@ ninja.data = [{
           description: "The Single Digit to Image (SD2I) tensorflow-based image reconstruction tool.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sd2i/";
+            },},{id: "projects-investigation-of-the-mechanical-robustness-performance-of-an-sofc-during-thermal-cycling",
+          title: 'Investigation of the mechanical robustness/performance of an SOFC during thermal cycling',
+          description: "First dynamic XRD-CT experiment with a micro-tubular solid oxide fuel cell",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sofc/";
             },},{id: "projects-vulture",
           title: 'Vulture',
           description: "Convolutional upsampling of DINOv2 features for weakly supervised segmentation.",
