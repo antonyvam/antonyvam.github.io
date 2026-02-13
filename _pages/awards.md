@@ -3,7 +3,7 @@ layout: page
 title: awards
 permalink: /awards/
 nav: true
-nav_order: 8
+nav_order: 6
 ---
 
 ## Major Awards

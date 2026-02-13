@@ -3,7 +3,7 @@ layout: page
 title: highlights
 permalink: /highlights/
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 My research is frequently featured in facility highlight reports and annual reviews, showcasing the application of advanced X-ray imaging to critical energy and materials challenges.

@@ -3,7 +3,7 @@ layout: page
 title: cv
 permalink: /cv/
 nav: true
-nav_order: 4
+nav_order: 9
 ---
 
 [Download CV (PDF)](/assets/pdf/CV_AV.pdf)
