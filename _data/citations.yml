@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-02-18'
+  last_updated: '2026-02-20'
 papers:
   eObSAAkAAAAJ:1qzjygNMrQYC:
     citations: 5
     title: Tomography in Catalyst Design
     year: '2021'
   eObSAAkAAAAJ:1sJd4Hv_s6UC:
-    citations: 104
+    citations: 105
     title: Design of next-generation ceramic fuel cells and real-time characterization with synchrotron X-ray diffraction computed tomography
     year: '2019'
   eObSAAkAAAAJ:1yQoGdGgb4wC:
@@ -82,7 +82,7 @@ papers:
     title: "ID15A at the ESRF\u2013a beamline for high speed operando X-ray diffraction, diffraction tomography and total scattering"
     year: '2020'
   eObSAAkAAAAJ:UxriW0iASnsC:
-    citations: 124
+    citations: 125
     title: "Spatially resolving lithiation in silicon\u2013graphite composite electrodes via in situ high-energy X-ray diffraction computed tomography"
     year: '2019'
   eObSAAkAAAAJ:V3AGJWp-ZtQC:
@@ -106,7 +106,7 @@ papers:
     title: "Effect of thermal treatment on the stability of Na\u2013Mn\u2013W/SiO2 catalyst for the oxidative coupling of methane"
     year: '2020'
   eObSAAkAAAAJ:WqliGbK-hY8C:
-    citations: 34
+    citations: 35
     title: Emerging chemical heterogeneities in a commercial 18650 NCA Li-ion battery during early cycling revealed by synchrotron X-ray diffraction tomography
     year: '2022'
   eObSAAkAAAAJ:XD-gHx7UXLsC:
