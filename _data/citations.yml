@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-02-20'
+  last_updated: '2026-02-27'
 papers:
   eObSAAkAAAAJ:1qzjygNMrQYC:
     citations: 5
     title: Tomography in Catalyst Design
     year: '2021'
   eObSAAkAAAAJ:1sJd4Hv_s6UC:
-    citations: 105
+    citations: 106
     title: Design of next-generation ceramic fuel cells and real-time characterization with synchrotron X-ray diffraction computed tomography
     year: '2019'
   eObSAAkAAAAJ:1yQoGdGgb4wC:
@@ -18,7 +18,7 @@ papers:
     title: "Multi-length scale 5D diffraction imaging of Ni\u2013Pd/CeO 2\u2013ZrO 2/Al 2 O 3 catalyst during partial oxidation of methane"
     year: '2021'
   eObSAAkAAAAJ:738O_yMBCRsC:
-    citations: 109
+    citations: 118
     title: Spatial quantification of dynamic inter and intra particle crystallographic heterogeneities within lithium ion electrodes
     year: '2020'
   eObSAAkAAAAJ:7T2F9Uy0os0C:
@@ -66,11 +66,11 @@ papers:
     title: Real-time chemical imaging of working catalytic membrane reactors
     year: '2017'
   eObSAAkAAAAJ:PR6Y55bgFSsC:
-    citations: 57
+    citations: 58
     title: Recent developments in X-ray diffraction/scattering computed tomography for materials science
     year: '2023'
   eObSAAkAAAAJ:SP6oXDckpogC:
-    citations: 10
+    citations: 11
     title: "Sustainable iron-based oxygen carriers for hydrogen production\u2013Real-time operando investigation"
     year: '2019'
   eObSAAkAAAAJ:SdhP9T11ey4C:
@@ -106,7 +106,7 @@ papers:
     title: "Effect of thermal treatment on the stability of Na\u2013Mn\u2013W/SiO2 catalyst for the oxidative coupling of methane"
     year: '2020'
   eObSAAkAAAAJ:WqliGbK-hY8C:
-    citations: 35
+    citations: 36
     title: Emerging chemical heterogeneities in a commercial 18650 NCA Li-ion battery during early cycling revealed by synchrotron X-ray diffraction tomography
     year: '2022'
   eObSAAkAAAAJ:XD-gHx7UXLsC:
@@ -138,19 +138,19 @@ papers:
     title: X-Ray Diffraction Computed Tomography (XRD-CT) Experiments on a Working Magnetic Induction Reaction during CO2 Conversion
     year: '2025'
   eObSAAkAAAAJ:_Ybze24A_UAC:
-    citations: 10
+    citations: 11
     title: Chemical Imaging of Carbide Formation and Its Effect on Alcohol Selectivity in Fischer Tropsch Synthesis on Mn-Doped Co/TiO2 Pellets
     year: '2024'
   eObSAAkAAAAJ:_xSYboBqXhAC:
-    citations: 6
+    citations: 7
     title: Operando chemical tomography of packed bed and membrane reactors for methane processing
     year: '2017'
   eObSAAkAAAAJ:a0OBvERweLwC:
-    citations: 102
+    citations: 103
     title: Chemical imaging of Fischer-Tropsch catalysts under operating conditions
     year: '2017'
   eObSAAkAAAAJ:cFHS6HbyZ2cC:
-    citations: 69
+    citations: 70
     title: Interlaced X-ray diffraction computed tomography
     year: '2016'
   eObSAAkAAAAJ:eJXPG6dFmWUC:
@@ -162,7 +162,7 @@ papers:
     title: Observing the solid-state chemistry inside a working catalytic membrane reactor
     year: '2015'
   eObSAAkAAAAJ:fQNAKQ3IYiAC:
-    citations: 92
+    citations: 94
     title: Multiscale investigation of adsorption properties of novel 3D printed UTSA-16 structures
     year: '2020'
   eObSAAkAAAAJ:geHnlv5EZngC:
@@ -181,10 +181,6 @@ papers:
     citations: 55
     title: Real-time multi-length scale chemical tomography of fixed bed reactors during the oxidative coupling of methane reaction
     year: '2020'
-  eObSAAkAAAAJ:nrtMV_XWKgEC:
-    citations: 12
-    title: "Di Michiel, 16 M., Jacques, S., Beale, AM, Brett, DJL, et al.(2020). Spatial quantification of dynamic inter 17 and intra particle crystallographic heterogeneities within \u2026"
-    year: Unknown Year
   eObSAAkAAAAJ:olpn-zPbct0C:
     citations: 27
     title: Real-time tomographic diffraction imaging of catalytic membrane reactors for the oxidative coupling of methane
@@ -202,7 +198,7 @@ papers:
     title: Development and characterization of Catalytic membrane reactors for oxidative coupling of methane
     year: '2015'
   eObSAAkAAAAJ:u-x6o8ySG0sC:
-    citations: 65
+    citations: 66
     title: Removing multiple outliers and single-crystal artefacts from X-ray diffraction computed tomography data
     year: '2015'
   eObSAAkAAAAJ:u5HHmVD_uO8C:
@@ -218,7 +214,7 @@ papers:
     title: X-ray transparent proton-exchange membrane fuel cell design for in situ wide and small angle scattering tomography
     year: '2019'
   eObSAAkAAAAJ:xtRiw3GOFMkC:
-    citations: 120
+    citations: 121
     title: 5D operando tomographic diffraction imaging of a catalyst bed
     year: '2018'
   eObSAAkAAAAJ:yD5IFk8b50cC:
@@ -232,4 +228,4 @@ papers:
   eObSAAkAAAAJ:z_wVstp3MssC:
     citations: 0
     title: 'Battery Imaging Library: Multi-length scale and multi-modal synchrotron and laboratory battery imaging data for all'
-    year: '2025'
+    year: '2026'
