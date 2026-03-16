@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-13'
+  last_updated: '2026-03-16'
 papers:
   eObSAAkAAAAJ:1qzjygNMrQYC:
     citations: 5
@@ -54,7 +54,7 @@ papers:
     title: 'Real-time chemical imaging of functional materials and devices: catalytic reactors, fuel cells and batteries'
     year: '2019'
   eObSAAkAAAAJ:NJ774b8OgUMC:
-    citations: 4
+    citations: 5
     title: Upsampling dinov2 features for unsupervised vision tasks and weakly supervised materials segmentation
     year: '2026'
   eObSAAkAAAAJ:OU6Ihb5iCvQC:
