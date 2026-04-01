@@ -10,8 +10,10 @@ hide_title: true
 
 ## Invited Speaker
 
-* **Departmental Seminar**, Dyson School of Design Engineering, Imperial College London (02/2026, London, UK)
-* **Lunch-and-Learn Seminar**, London Centre for Nanotechnology, Imperial College London (11/2025, London, UK)
+* **AI and Machine Learning for Materials Characterisation workshop**, Harwell Science and Innovation Campus (04/2026, Harwell, UK)
+* **Machine Learning for Experimental Materials Data**, Institute of Physics (04/2026, London, UK)
+* **Dyson School of Design Engineering Departmental Seminar**, Imperial College London (02/2026, London, UK)
+* **London Centre for Nanotechnology Lunch-and-Learn Seminar**, Imperial College London (11/2025, London, UK)
 * **Opportunities and Challenges of FAIR Data at Photon and Neutron Facilities**, Physikzentrum of the German Physical Society (10/2025, Bad Honnef, Germany)
 * **ESRF membership: Catalyzing Greek Scientific Excellence**, ESRF & Greek Synchrotron Users Network (03/2024, Athens, Greece)
 * **Advanced Battery Characterisation with Unconventional X-ray Tomography**, Battery Pub, Volta Foundation (01/2024, Online)
@@ -33,11 +35,11 @@ hide_title: true
 
 ## Contributed Talks
 
-* **Meeting of Minds**, Royal Society (02/2026, London, UK)
-* **Dimensional X-ray Computed Tomography Conference** (06/2024, Harwell, UK)
+* **Royal Society Meeting of Minds** (02/2026, London, UK)
+* **8th Dimensional X-ray Computed Tomography Conference** (06/2024, Harwell, UK)
 * **14th International Conference on Catalysis in Membrane Reactors** (07/2019, Eindhoven, Netherlands)
 * **12th Greek National Conference on Chemical Engineering** (05/2019, Athens, Greece)
-* **ESRF UM2017**, Operando structural studies in Materials Science (02/2017, Grenoble, France)
+* **ESRF UM2017 Operando structural studies in Materials Science** (02/2017, Grenoble, France)
 * **16th International Congress on Catalysis** (07/2016, Beijing, China)
 * **12th International Conference on Catalysis in Membrane Reactors** (06/2015, Szczecin, Poland)
 * **5th International Conference on Operando Spectroscopy** (05/2015, Deauville, France)
@@ -47,6 +49,7 @@ hide_title: true
 
 ## Poster Presentations
 
+* **Royal Society of Chemistry Analyticode** (03/2026, London, UK)
 * **6th Dimensional X-ray Computed Tomography Conference** (06/2022, Manchester, UK)
 * **UCL Medical image computing summer school (MedICSS) 2022** (06/2022, London, UK)
 * **17th European Powder Diffraction Conference** (06/2022, Šibenik, Croatia)
