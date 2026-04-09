@@ -22,9 +22,10 @@ I have extensive experience designing and delivering specialized curricula for b
 I actively supervise research students across various levels, bridging industrial R&D at Finden Ltd with academic projects at Imperial and UCL.
 
 ### Doctoral Supervision
-* **Ronan Docherty** (Nov 2022 – present): Second supervisor to PhD student, Dyson School of Design Engineering, Imperial College London.
-* **Sam Riley & John Morley** (Jan 2024 – present): Synchrotron experiments supervisor to PhD students, Dyson School of Design Engineering, Imperial College London.
-* **Hongyang Dong** (Jan 2020 – Nov 2023): Industrial and day-to-day supervisor to PhD student, Department of Chemistry, University College London (UCL) — *Completed*.
+* **Ronan Docherty** (Nov 2022 – present): Second supervisor, Department of Materials, Imperial College London.
+* **John Morley** (Jan 2024 – April 2026): Co-supervisor, Dyson School of Design Engineering, Imperial College London - *Thesis Submitted*. Thesis: "Mine waste as a sustainable alternative active anode material for Li- and Na-ion batteries"
+* **Sam Riley** (Jan 2024 – December 2025): Co-supervisor, Dyson School of Design Engineering, Imperial College London - *Completed*. Thesis: "Engineering Flexible Energy Storage: Materials, Mechanics, Metrology, and Manufacturing"
+* **Hongyang Dong** (Jan 2020 – Nov 2023): Second and day-to-day supervisor to PhD student, Department of Chemistry, University College London (UCL) - *Completed*. Thesis: “Machine Learning-Based High-Throughput Processing of Chemical Imaging Data”
 
 ### Graduate & Undergraduate Supervision
 * **George Gunn** (Nov 2022 – May 2023): Second supervisor to MEng student, Dyson School of Design Engineering, Imperial College London.
