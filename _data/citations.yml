@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-05-11'
 papers:
   eObSAAkAAAAJ:0KyAp5RtaNEC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: Tomography in Catalyst Design
     year: '2021'
   eObSAAkAAAAJ:1sJd4Hv_s6UC:
-    citations: 110
+    citations: 112
     title: Design of next-generation ceramic fuel cells and real-time characterization with synchrotron X-ray diffraction computed tomography
     year: '2019'
   eObSAAkAAAAJ:1yQoGdGgb4wC:
@@ -22,7 +22,7 @@ papers:
     title: "Multi-length scale 5D diffraction imaging of Ni\u2013Pd/CeO 2\u2013ZrO 2/Al 2 O 3 catalyst during partial oxidation of methane"
     year: '2021'
   eObSAAkAAAAJ:738O_yMBCRsC:
-    citations: 126
+    citations: 127
     title: Spatial quantification of dynamic inter and intra particle crystallographic heterogeneities within lithium ion electrodes
     year: '2020'
   eObSAAkAAAAJ:7T2F9Uy0os0C:
@@ -62,7 +62,7 @@ papers:
     title: Upsampling dinov2 features for unsupervised vision tasks and weakly supervised materials segmentation
     year: '2026'
   eObSAAkAAAAJ:OU6Ihb5iCvQC:
-    citations: 117
+    citations: 118
     title: 3D printed Ni/Al2O3 based catalysts for CO2 methanation-a comparative and operando XRD-CT study
     year: '2019'
   eObSAAkAAAAJ:PELIpwtuRlgC:
@@ -86,7 +86,7 @@ papers:
     title: "ID15A at the ESRF\u2013a beamline for high speed operando X-ray diffraction, diffraction tomography and total scattering"
     year: '2020'
   eObSAAkAAAAJ:UxriW0iASnsC:
-    citations: 129
+    citations: 130
     title: "Spatially resolving lithiation in silicon\u2013graphite composite electrodes via in situ high-energy X-ray diffraction computed tomography"
     year: '2019'
   eObSAAkAAAAJ:V3AGJWp-ZtQC:
@@ -106,7 +106,7 @@ papers:
     title: "Cycling Rate\u2010Induced Spatially\u2010Resolved Heterogeneities in Commercial Cylindrical Li\u2010Ion Batteries"
     year: '2021'
   eObSAAkAAAAJ:WbkHhVStYXYC:
-    citations: 48
+    citations: 50
     title: "Effect of thermal treatment on the stability of Na\u2013Mn\u2013W/SiO2 catalyst for the oxidative coupling of methane"
     year: '2020'
   eObSAAkAAAAJ:WqliGbK-hY8C:
