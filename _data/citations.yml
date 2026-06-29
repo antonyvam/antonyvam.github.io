@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-06-29'
 papers:
   eObSAAkAAAAJ:0KyAp5RtaNEC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Design of next-generation ceramic fuel cells and real-time characterization with synchrotron X-ray diffraction computed tomography
     year: '2019'
   eObSAAkAAAAJ:1yQoGdGgb4wC:
-    citations: 9
+    citations: 10
     title: A scalable neural network architecture for self-supervised tomographic image reconstruction
     year: '2023'
   eObSAAkAAAAJ:5ugPr518TE4C:
@@ -74,7 +74,7 @@ papers:
     title: Real-time chemical imaging of working catalytic membrane reactors
     year: '2017'
   eObSAAkAAAAJ:PR6Y55bgFSsC:
-    citations: 69
+    citations: 70
     title: Recent developments in X-ray diffraction/scattering computed tomography for materials science
     year: '2023'
   eObSAAkAAAAJ:SP6oXDckpogC:
@@ -106,7 +106,7 @@ papers:
     title: "Rationalizing Deactivation Behavior in Pyrochlore\u2010Type CeO2\u2010ZrO2 Oxygen Storage Catalysts Using Multimodal Nano X\u2010Ray Fluorescence Computed \u2026"
     year: '2025'
   eObSAAkAAAAJ:WA5NYHcadZ8C:
-    citations: 36
+    citations: 37
     title: "Cycling Rate\u2010Induced Spatially\u2010Resolved Heterogeneities in Commercial Cylindrical Li\u2010Ion Batteries"
     year: '2021'
   eObSAAkAAAAJ:WbkHhVStYXYC:
@@ -122,7 +122,7 @@ papers:
     title: Acute deformation characteristics of standard and flexible lithium-ion battery electrodes
     year: '2026'
   eObSAAkAAAAJ:XiVPGOgt02cC:
-    citations: 79
+    citations: 80
     title: A deep convolutional neural network for real-time full profile analysis of big powder diffraction data
     year: '2021'
   eObSAAkAAAAJ:Y5dfb0dijaUC:
@@ -154,7 +154,7 @@ papers:
     title: Operando chemical tomography of packed bed and membrane reactors for methane processing
     year: '2017'
   eObSAAkAAAAJ:a0OBvERweLwC:
-    citations: 105
+    citations: 107
     title: Chemical imaging of Fischer-Tropsch catalysts under operating conditions
     year: '2017'
   eObSAAkAAAAJ:cFHS6HbyZ2cC:
@@ -198,7 +198,7 @@ papers:
     title: Real-time tomographic diffraction imaging of catalytic membrane reactors for the oxidative coupling of methane
     year: '2020'
   eObSAAkAAAAJ:pyW8ca7W8N0C:
-    citations: 31
+    citations: 32
     title: "X-ray physico-chemical imaging during activation of cobalt-based Fischer\u2013Tropsch synthesis catalysts"
     year: '2017'
   eObSAAkAAAAJ:tKAzc9rXhukC:
@@ -234,7 +234,7 @@ papers:
     title: 5D operando tomographic diffraction imaging of a catalyst bed
     year: '2018'
   eObSAAkAAAAJ:yD5IFk8b50cC:
-    citations: 82
+    citations: 84
     title: "Real-time scattering-contrast imaging of a supported cobalt-based catalyst body during activation and Fischer\u2013Tropsch synthesis revealing spatial dependence of particle size \u2026"
     year: '2017'
   eObSAAkAAAAJ:ye4kPcJQO24C:
