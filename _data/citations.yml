@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-13'
 papers:
   eObSAAkAAAAJ:0KyAp5RtaNEC:
     citations: 0
@@ -10,19 +10,19 @@ papers:
     title: Tomography in Catalyst Design
     year: '2021'
   eObSAAkAAAAJ:1sJd4Hv_s6UC:
-    citations: 116
+    citations: 117
     title: Design of next-generation ceramic fuel cells and real-time characterization with synchrotron X-ray diffraction computed tomography
     year: '2019'
   eObSAAkAAAAJ:1yQoGdGgb4wC:
-    citations: 10
+    citations: 11
     title: A scalable neural network architecture for self-supervised tomographic image reconstruction
     year: '2023'
   eObSAAkAAAAJ:5ugPr518TE4C:
-    citations: 30
+    citations: 31
     title: "Multi-length scale 5D diffraction imaging of Ni\u2013Pd/CeO 2\u2013ZrO 2/Al 2 O 3 catalyst during partial oxidation of methane"
     year: '2021'
   eObSAAkAAAAJ:738O_yMBCRsC:
-    citations: 128
+    citations: 130
     title: Spatial quantification of dynamic inter and intra particle crystallographic heterogeneities within lithium ion electrodes
     year: '2020'
   eObSAAkAAAAJ:7T2F9Uy0os0C:
@@ -34,7 +34,7 @@ papers:
     title: Exploring cycling induced crystallographic change in NMC with X-ray diffraction computed tomography
     year: '2020'
   eObSAAkAAAAJ:9Nmd_mFXekcC:
-    citations: 2
+    citations: 3
     title: 'Mn-Promoted Co/TiO2 Catalysts: Quantitative Analysis of Cobalt Polymorphs and Stacking Faults and Its Effect on Fischer-Tropsch Synthesis Performance'
     year: '2026'
   eObSAAkAAAAJ:CHSYGLWDkRkC:
@@ -46,7 +46,7 @@ papers:
     title: '3D printed bimetallic electrodes for optimized electrochemical oxidation from batch to flow cell: A multiscale study'
     year: '2026'
   eObSAAkAAAAJ:Fu2w8maKXqMC:
-    citations: 7
+    citations: 8
     title: 'SAMBA: A Trainable Segmentation Web-App with Smart Labelling'
     year: '2024'
   eObSAAkAAAAJ:HE397vMXCloC:
@@ -54,7 +54,7 @@ papers:
     title: Imaging heterogeneous electrocatalyst stability and decoupling degradation mechanisms in operating hydrogen fuel cells
     year: '2021'
   eObSAAkAAAAJ:J-pR_7NvFogC:
-    citations: 24
+    citations: 25
     title: "Multi-Scale Studies of 3D Printed Mn\u2013Na\u2013W/SiO2 Catalyst for Oxidative Coupling of Methane"
     year: '2021'
   eObSAAkAAAAJ:JoZmwDi-zQgC:
@@ -66,7 +66,7 @@ papers:
     title: Upsampling dinov2 features for unsupervised vision tasks and weakly supervised materials segmentation
     year: '2026'
   eObSAAkAAAAJ:OU6Ihb5iCvQC:
-    citations: 120
+    citations: 121
     title: 3D printed Ni/Al2O3 based catalysts for CO2 methanation-a comparative and operando XRD-CT study
     year: '2019'
   eObSAAkAAAAJ:PELIpwtuRlgC:
@@ -86,7 +86,7 @@ papers:
     title: "\u03BC-CT Investigation into the Impact of a Fuel-Borne Catalyst Additive on the Filtration Efficiency and Backpressure of Gasoline Particulate Filters"
     year: '2022'
   eObSAAkAAAAJ:Tiz5es2fbqcC:
-    citations: 175
+    citations: 178
     title: "ID15A at the ESRF\u2013a beamline for high speed operando X-ray diffraction, diffraction tomography and total scattering"
     year: '2020'
   eObSAAkAAAAJ:UxriW0iASnsC:
@@ -94,7 +94,7 @@ papers:
     title: "Spatially resolving lithiation in silicon\u2013graphite composite electrodes via in situ high-energy X-ray diffraction computed tomography"
     year: '2019'
   eObSAAkAAAAJ:V3AGJWp-ZtQC:
-    citations: 29
+    citations: 30
     title: 'DLSR: a solution to the parallax artefact in X-ray diffraction computed tomography data'
     year: '2020'
   eObSAAkAAAAJ:VL0QpB8kHFEC:
@@ -102,11 +102,11 @@ papers:
     title: A multi-scale study of 3D printed Co-Al2O3 catalyst monoliths versus spheres
     year: '2023'
   eObSAAkAAAAJ:VLnqNzywnoUC:
-    citations: 1
+    citations: 2
     title: "Rationalizing Deactivation Behavior in Pyrochlore\u2010Type CeO2\u2010ZrO2 Oxygen Storage Catalysts Using Multimodal Nano X\u2010Ray Fluorescence Computed \u2026"
     year: '2025'
   eObSAAkAAAAJ:WA5NYHcadZ8C:
-    citations: 37
+    citations: 38
     title: "Cycling Rate\u2010Induced Spatially\u2010Resolved Heterogeneities in Commercial Cylindrical Li\u2010Ion Batteries"
     year: '2021'
   eObSAAkAAAAJ:WbkHhVStYXYC:
@@ -114,7 +114,7 @@ papers:
     title: "Effect of thermal treatment on the stability of Na\u2013Mn\u2013W/SiO2 catalyst for the oxidative coupling of methane"
     year: '2020'
   eObSAAkAAAAJ:WqliGbK-hY8C:
-    citations: 42
+    citations: 44
     title: Emerging chemical heterogeneities in a commercial 18650 NCA Li-ion battery during early cycling revealed by synchrotron X-ray diffraction tomography
     year: '2022'
   eObSAAkAAAAJ:XD-gHx7UXLsC:
@@ -122,7 +122,7 @@ papers:
     title: Acute deformation characteristics of standard and flexible lithium-ion battery electrodes
     year: '2026'
   eObSAAkAAAAJ:XiVPGOgt02cC:
-    citations: 80
+    citations: 81
     title: A deep convolutional neural network for real-time full profile analysis of big powder diffraction data
     year: '2021'
   eObSAAkAAAAJ:Y5dfb0dijaUC:
@@ -146,7 +146,7 @@ papers:
     title: X-Ray Diffraction Computed Tomography (XRD-CT) Experiments on a Working Magnetic Induction Reaction during CO2 Conversion
     year: '2025'
   eObSAAkAAAAJ:_Ybze24A_UAC:
-    citations: 12
+    citations: 13
     title: Chemical Imaging of Carbide Formation and Its Effect on Alcohol Selectivity in Fischer Tropsch Synthesis on Mn-Doped Co/TiO2 Pellets
     year: '2024'
   eObSAAkAAAAJ:_xSYboBqXhAC:
@@ -158,7 +158,7 @@ papers:
     title: Chemical imaging of Fischer-Tropsch catalysts under operating conditions
     year: '2017'
   eObSAAkAAAAJ:cFHS6HbyZ2cC:
-    citations: 72
+    citations: 73
     title: Interlaced X-ray diffraction computed tomography
     year: '2016'
   eObSAAkAAAAJ:eJXPG6dFmWUC:
@@ -170,23 +170,23 @@ papers:
     title: Observing the solid-state chemistry inside a working catalytic membrane reactor
     year: '2015'
   eObSAAkAAAAJ:fQNAKQ3IYiAC:
-    citations: 100
+    citations: 101
     title: Multiscale investigation of adsorption properties of novel 3D printed UTSA-16 structures
     year: '2020'
   eObSAAkAAAAJ:geHnlv5EZngC:
     citations: 32
-    title: "In situ X-ray diffraction computed tomography studies examining the thermal and chemical stabilities of working Ba 0.5 Sr 0.5 Co 0.8 Fe 0.2 O 3\u2212 \u03B4 membranes during oxidative \u2026"
+    title: "In situ X-ray diffraction computed tomography studies examining the thermal and chemical stabilities of working Ba0. 5Sr0. 5Co0. 8Fe0. 2O3\u2212 \u03B4 membranes during oxidative \u2026"
     year: '2020'
   eObSAAkAAAAJ:ipzZ9siozwsC:
     citations: 0
     title: An X-ray diffraction computed tomography study determining failure mechanisms in industrial Cu/ZnO/Al2O3 (-Cs2O) water-gas shift catalysts
     year: Unknown Year
   eObSAAkAAAAJ:j8SEvjWlNXcC:
-    citations: 18
+    citations: 19
     title: 'nDTomo: A Modular Python Toolkit for X-ray Chemical Imaging and Tomography'
     year: '2025'
   eObSAAkAAAAJ:kzcrU_BdoSEC:
-    citations: 6
+    citations: 7
     title: Obtaining parallax-free X-ray powder diffraction computed tomography data with a self-supervised neural network
     year: '2024'
   eObSAAkAAAAJ:l7t_Zn2s7bgC:
@@ -210,7 +210,7 @@ papers:
     title: Development and characterization of Catalytic membrane reactors for oxidative coupling of methane
     year: '2015'
   eObSAAkAAAAJ:u-x6o8ySG0sC:
-    citations: 68
+    citations: 69
     title: Removing multiple outliers and single-crystal artefacts from X-ray diffraction computed tomography data
     year: '2015'
   eObSAAkAAAAJ:u5HHmVD_uO8C:
@@ -222,25 +222,25 @@ papers:
     title: 'Maybe you don''t need a U-Net: convolutional feature upsampling for materials micrograph segmentation'
     year: '2025'
   eObSAAkAAAAJ:uWQEDVKXjbEC:
-    citations: 56
+    citations: 57
     title: X-ray transparent proton-exchange membrane fuel cell design for in situ wide and small angle scattering tomography
     year: '2019'
-  eObSAAkAAAAJ:uc_IGeMz5qoC:
-    citations: 0
-    title: "Bridging the Interpretation Gap: Synchrotron Characterisation for Industry\u2013A Perspective from a Specialist SME"
-    year: '2026'
   eObSAAkAAAAJ:xtRiw3GOFMkC:
-    citations: 126
+    citations: 127
     title: 5D operando tomographic diffraction imaging of a catalyst bed
     year: '2018'
   eObSAAkAAAAJ:yD5IFk8b50cC:
-    citations: 84
+    citations: 83
     title: "Real-time scattering-contrast imaging of a supported cobalt-based catalyst body during activation and Fischer\u2013Tropsch synthesis revealing spatial dependence of particle size \u2026"
     year: '2017'
   eObSAAkAAAAJ:ye4kPcJQO24C:
     citations: 25
     title: 3D printed SrNbO 2 N photocatalyst for degradation of organic pollutants in water
     year: '2023'
+  eObSAAkAAAAJ:zLWjf1WUPmwC:
+    citations: 0
+    title: "Bridging the Interpretation Gap: Synchrotron Characterization for Industry \u2013 A Specialist SME Perspective"
+    year: '2026'
   eObSAAkAAAAJ:z_wVstp3MssC:
     citations: 4
     title: 'Battery Imaging Library: Multi-length scale and multi-modal synchrotron and laboratory battery imaging data for all'
