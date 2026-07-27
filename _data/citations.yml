@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-07-27'
 papers:
   eObSAAkAAAAJ:0KyAp5RtaNEC:
     citations: 0
@@ -22,7 +22,7 @@ papers:
     title: "Multi-length scale 5D diffraction imaging of Ni\u2013Pd/CeO 2\u2013ZrO 2/Al 2 O 3 catalyst during partial oxidation of methane"
     year: '2021'
   eObSAAkAAAAJ:738O_yMBCRsC:
-    citations: 131
+    citations: 130
     title: Spatial quantification of dynamic inter and intra particle crystallographic heterogeneities within lithium ion electrodes
     year: '2020'
   eObSAAkAAAAJ:7T2F9Uy0os0C:
@@ -62,7 +62,7 @@ papers:
     title: 'Real-time chemical imaging of functional materials and devices: catalytic reactors, fuel cells and batteries'
     year: '2019'
   eObSAAkAAAAJ:NJ774b8OgUMC:
-    citations: 11
+    citations: 12
     title: Upsampling dinov2 features for unsupervised vision tasks and weakly supervised materials segmentation
     year: '2026'
   eObSAAkAAAAJ:OU6Ihb5iCvQC:
@@ -74,7 +74,7 @@ papers:
     title: Real-time chemical imaging of working catalytic membrane reactors
     year: '2017'
   eObSAAkAAAAJ:PR6Y55bgFSsC:
-    citations: 70
+    citations: 69
     title: Recent developments in X-ray diffraction/scattering computed tomography for materials science
     year: '2023'
   eObSAAkAAAAJ:SP6oXDckpogC:
@@ -94,7 +94,7 @@ papers:
     title: "Spatially resolving lithiation in silicon\u2013graphite composite electrodes via in situ high-energy X-ray diffraction computed tomography"
     year: '2019'
   eObSAAkAAAAJ:V3AGJWp-ZtQC:
-    citations: 30
+    citations: 29
     title: 'DLSR: a solution to the parallax artefact in X-ray diffraction computed tomography data'
     year: '2020'
   eObSAAkAAAAJ:VL0QpB8kHFEC:
@@ -235,7 +235,7 @@ papers:
     year: '2017'
   eObSAAkAAAAJ:ye4kPcJQO24C:
     citations: 25
-    title: 3D printed SrNbO2N photocatalyst for degradation of organic pollutants in water
+    title: "3D printed SrNbO\u2082N photocatalyst for degradation of organic pollutants in water"
     year: '2023'
   eObSAAkAAAAJ:zLWjf1WUPmwC:
     citations: 0
