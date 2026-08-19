@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-19'
 papers:
   eObSAAkAAAAJ:0KyAp5RtaNEC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: Tomography in Catalyst Design
     year: '2021'
   eObSAAkAAAAJ:1sJd4Hv_s6UC:
-    citations: 120
+    citations: 121
     title: Design of next-generation ceramic fuel cells and real-time characterization with synchrotron X-ray diffraction computed tomography
     year: '2019'
   eObSAAkAAAAJ:1yQoGdGgb4wC:
@@ -22,7 +22,7 @@ papers:
     title: "Multi-length scale 5D diffraction imaging of Ni\u2013Pd/CeO 2\u2013ZrO 2/Al 2 O 3 catalyst during partial oxidation of methane"
     year: '2021'
   eObSAAkAAAAJ:738O_yMBCRsC:
-    citations: 132
+    citations: 135
     title: Spatial quantification of dynamic inter and intra particle crystallographic heterogeneities within lithium ion electrodes
     year: '2020'
   eObSAAkAAAAJ:7T2F9Uy0os0C:
@@ -30,7 +30,7 @@ papers:
     title: X-ray diffraction computed tomography, functional materials and neural networks
     year: '2024'
   eObSAAkAAAAJ:8AbLer7MMksC:
-    citations: 64
+    citations: 66
     title: Exploring cycling induced crystallographic change in NMC with X-ray diffraction computed tomography
     year: '2020'
   eObSAAkAAAAJ:9Nmd_mFXekcC:
@@ -74,7 +74,7 @@ papers:
     title: Real-time chemical imaging of working catalytic membrane reactors
     year: '2017'
   eObSAAkAAAAJ:PR6Y55bgFSsC:
-    citations: 73
+    citations: 75
     title: Recent developments in X-ray diffraction/scattering computed tomography for materials science
     year: '2023'
   eObSAAkAAAAJ:SP6oXDckpogC:
@@ -86,15 +86,15 @@ papers:
     title: "\u03BC-CT Investigation into the Impact of a Fuel-Borne Catalyst Additive on the Filtration Efficiency and Backpressure of Gasoline Particulate Filters"
     year: '2022'
   eObSAAkAAAAJ:Tiz5es2fbqcC:
-    citations: 180
+    citations: 181
     title: "ID15A at the ESRF\u2013a beamline for high speed operando X-ray diffraction, diffraction tomography and total scattering"
     year: '2020'
   eObSAAkAAAAJ:UxriW0iASnsC:
-    citations: 133
+    citations: 134
     title: "Spatially resolving lithiation in silicon\u2013graphite composite electrodes via in situ high-energy X-ray diffraction computed tomography"
     year: '2019'
   eObSAAkAAAAJ:V3AGJWp-ZtQC:
-    citations: 30
+    citations: 31
     title: 'DLSR: a solution to the parallax artefact in X-ray diffraction computed tomography data'
     year: '2020'
   eObSAAkAAAAJ:VL0QpB8kHFEC:
@@ -106,15 +106,15 @@ papers:
     title: "Rationalizing Deactivation Behavior in Pyrochlore\u2010Type CeO2\u2010ZrO2 Oxygen Storage Catalysts Using Multimodal Nano X\u2010Ray Fluorescence Computed \u2026"
     year: '2025'
   eObSAAkAAAAJ:WA5NYHcadZ8C:
-    citations: 39
+    citations: 40
     title: "Cycling Rate\u2010Induced Spatially\u2010Resolved Heterogeneities in Commercial Cylindrical Li\u2010Ion Batteries"
     year: '2021'
   eObSAAkAAAAJ:WbkHhVStYXYC:
-    citations: 51
+    citations: 52
     title: "Effect of thermal treatment on the stability of Na\u2013Mn\u2013W/SiO2 catalyst for the oxidative coupling of methane"
     year: '2020'
   eObSAAkAAAAJ:WqliGbK-hY8C:
-    citations: 45
+    citations: 46
     title: Emerging chemical heterogeneities in a commercial 18650 NCA Li-ion battery during early cycling revealed by synchrotron X-ray diffraction tomography
     year: '2022'
   eObSAAkAAAAJ:XD-gHx7UXLsC:
@@ -154,7 +154,7 @@ papers:
     title: Operando chemical tomography of packed bed and membrane reactors for methane processing
     year: '2017'
   eObSAAkAAAAJ:a0OBvERweLwC:
-    citations: 106
+    citations: 107
     title: Chemical imaging of Fischer-Tropsch catalysts under operating conditions
     year: '2017'
   eObSAAkAAAAJ:cFHS6HbyZ2cC:
@@ -162,7 +162,7 @@ papers:
     title: Interlaced X-ray diffraction computed tomography
     year: '2016'
   eObSAAkAAAAJ:eJXPG6dFmWUC:
-    citations: 7
+    citations: 8
     title: The Detection of monoclinic zirconia and non-uniform 3D crystallographic strain in a Re-oxidized Ni-YSZ solid oxide fuel cell anode
     year: '2020'
   eObSAAkAAAAJ:eMMeJKvmdy0C:
@@ -174,7 +174,7 @@ papers:
     title: Multiscale investigation of adsorption properties of novel 3D printed UTSA-16 structures
     year: '2020'
   eObSAAkAAAAJ:geHnlv5EZngC:
-    citations: 32
+    citations: 33
     title: "In situ X-ray diffraction computed tomography studies examining the thermal and chemical stabilities of working Ba0. 5Sr0. 5Co0. 8Fe0. 2O3\u2212 \u03B4 membranes during oxidative \u2026"
     year: '2020'
   eObSAAkAAAAJ:ipzZ9siozwsC:
@@ -186,7 +186,7 @@ papers:
     title: 'nDTomo: A Modular Python Toolkit for X-ray Chemical Imaging and Tomography'
     year: '2025'
   eObSAAkAAAAJ:kzcrU_BdoSEC:
-    citations: 7
+    citations: 9
     title: Obtaining parallax-free X-ray powder diffraction computed tomography data with a self-supervised neural network
     year: '2024'
   eObSAAkAAAAJ:l7t_Zn2s7bgC:
@@ -226,7 +226,7 @@ papers:
     title: X-ray transparent proton-exchange membrane fuel cell design for in situ wide and small angle scattering tomography
     year: '2019'
   eObSAAkAAAAJ:xtRiw3GOFMkC:
-    citations: 128
+    citations: 129
     title: 5D operando tomographic diffraction imaging of a catalyst bed
     year: '2018'
   eObSAAkAAAAJ:yD5IFk8b50cC:
@@ -234,7 +234,7 @@ papers:
     title: "Real-time scattering-contrast imaging of a supported cobalt-based catalyst body during activation and Fischer\u2013Tropsch synthesis revealing spatial dependence of particle size \u2026"
     year: '2017'
   eObSAAkAAAAJ:ye4kPcJQO24C:
-    citations: 24
+    citations: 25
     title: 3D printed SrNbO2N photocatalyst for degradation of organic pollutants in water
     year: '2023'
   eObSAAkAAAAJ:zLWjf1WUPmwC:
@@ -242,6 +242,6 @@ papers:
     title: "Bridging the Interpretation Gap: Synchrotron Characterization for Industry \u2013 A Specialist SME Perspective"
     year: '2026'
   eObSAAkAAAAJ:z_wVstp3MssC:
-    citations: 4
+    citations: 5
     title: 'Battery Imaging Library: Multi-length scale and multi-modal synchrotron and laboratory battery imaging data for all'
     year: '2026'
