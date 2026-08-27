@@ -10,6 +10,7 @@ hide_title: true
 
 ## Invited Speaker
 
+* **15th American Institute of Mathematical Sciences (AIMS) conference**, (06/2026, Athens, Greece)
 * **AI and Machine Learning for Materials Characterisation workshop**, Harwell Science and Innovation Campus (04/2026, Harwell, UK)
 * **Machine Learning for Experimental Materials Data**, Institute of Physics (04/2026, London, UK)
 * **Dyson School of Design Engineering Departmental Seminar**, Imperial College London (02/2026, London, UK)
@@ -49,6 +50,7 @@ hide_title: true
 
 ## Poster Presentations
 
+* **Greeks in AI** (06/2026, Athens, Greece)
 * **Royal Society of Chemistry Analyticode** (03/2026, London, UK)
 * **6th Dimensional X-ray Computed Tomography Conference** (06/2022, Manchester, UK)
 * **UCL Medical image computing summer school (MedICSS) 2022** (06/2022, London, UK)
