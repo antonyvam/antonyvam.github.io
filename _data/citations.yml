@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-19'
+  last_updated: '2026-08-31'
 papers:
   eObSAAkAAAAJ:0KyAp5RtaNEC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: Tomography in Catalyst Design
     year: '2021'
   eObSAAkAAAAJ:1sJd4Hv_s6UC:
-    citations: 121
+    citations: 122
     title: Design of next-generation ceramic fuel cells and real-time characterization with synchrotron X-ray diffraction computed tomography
     year: '2019'
   eObSAAkAAAAJ:1yQoGdGgb4wC:
@@ -86,11 +86,15 @@ papers:
     title: "\u03BC-CT Investigation into the Impact of a Fuel-Borne Catalyst Additive on the Filtration Efficiency and Backpressure of Gasoline Particulate Filters"
     year: '2022'
   eObSAAkAAAAJ:Tiz5es2fbqcC:
-    citations: 181
+    citations: 183
     title: "ID15A at the ESRF\u2013a beamline for high speed operando X-ray diffraction, diffraction tomography and total scattering"
     year: '2020'
+  eObSAAkAAAAJ:URolC5Kub84C:
+    citations: 0
+    title: An X-ray diffraction computed tomography study determining failure mechanisms in industrial Cu/ZnO/Al2O3(-Cs2O) water-gas shift catalysts
+    year: '2026'
   eObSAAkAAAAJ:UxriW0iASnsC:
-    citations: 134
+    citations: 135
     title: "Spatially resolving lithiation in silicon\u2013graphite composite electrodes via in situ high-energy X-ray diffraction computed tomography"
     year: '2019'
   eObSAAkAAAAJ:V3AGJWp-ZtQC:
@@ -122,7 +126,7 @@ papers:
     title: Acute deformation characteristics of standard and flexible lithium-ion battery electrodes
     year: '2026'
   eObSAAkAAAAJ:XiVPGOgt02cC:
-    citations: 83
+    citations: 85
     title: A deep convolutional neural network for real-time full profile analysis of big powder diffraction data
     year: '2021'
   eObSAAkAAAAJ:Y5dfb0dijaUC:
@@ -154,7 +158,7 @@ papers:
     title: Operando chemical tomography of packed bed and membrane reactors for methane processing
     year: '2017'
   eObSAAkAAAAJ:a0OBvERweLwC:
-    citations: 107
+    citations: 108
     title: Chemical imaging of Fischer-Tropsch catalysts under operating conditions
     year: '2017'
   eObSAAkAAAAJ:cFHS6HbyZ2cC:
@@ -225,6 +229,10 @@ papers:
     citations: 58
     title: X-ray transparent proton-exchange membrane fuel cell design for in situ wide and small angle scattering tomography
     year: '2019'
+  eObSAAkAAAAJ:uWiczbcajpAC:
+    citations: 5
+    title: 'Battery Imaging Library: Multi-length scale and multi-modal synchrotron and laboratory battery imaging data for all'
+    year: '2025'
   eObSAAkAAAAJ:xtRiw3GOFMkC:
     citations: 129
     title: 5D operando tomographic diffraction imaging of a catalyst bed
@@ -240,8 +248,4 @@ papers:
   eObSAAkAAAAJ:zLWjf1WUPmwC:
     citations: 0
     title: "Bridging the Interpretation Gap: Synchrotron Characterization for Industry \u2013 A Specialist SME Perspective"
-    year: '2026'
-  eObSAAkAAAAJ:z_wVstp3MssC:
-    citations: 5
-    title: 'Battery Imaging Library: Multi-length scale and multi-modal synchrotron and laboratory battery imaging data for all'
     year: '2026'
