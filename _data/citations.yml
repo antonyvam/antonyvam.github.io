@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-31'
+  last_updated: '2026-09-02'
 papers:
   eObSAAkAAAAJ:0KyAp5RtaNEC:
     citations: 0
@@ -89,10 +89,6 @@ papers:
     citations: 183
     title: "ID15A at the ESRF\u2013a beamline for high speed operando X-ray diffraction, diffraction tomography and total scattering"
     year: '2020'
-  eObSAAkAAAAJ:URolC5Kub84C:
-    citations: 0
-    title: An X-ray diffraction computed tomography study determining failure mechanisms in industrial Cu/ZnO/Al2O3(-Cs2O) water-gas shift catalysts
-    year: '2026'
   eObSAAkAAAAJ:UxriW0iASnsC:
     citations: 135
     title: "Spatially resolving lithiation in silicon\u2013graphite composite electrodes via in situ high-energy X-ray diffraction computed tomography"
