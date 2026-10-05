@@ -9,6 +9,11 @@ hide_title: true
 
 My research is frequently featured in facility highlight reports and annual reviews, showcasing the application of advanced X-ray imaging to critical energy and materials challenges.
 
+### Battery Imaging Library
+* [**Imperial researchers lead launch of world’s first open-access battery imaging library**](https://www.imperial.ac.uk/news/articles/engineering/design-engineering/2026/imperial-researchers-lead-launch-of-worlds-first-open-access-battery-imaging-library/), Imperial College London, 2026
+* [**World’s first open-access battery imaging library launches**](https://www.diamond.ac.uk/Home/News/LatestNews/2026/World-s-first-open-access-battery-imaging-library-launches.html), Diamond Light Source, 2026
+* [**https://www.isis.stfc.ac.uk/science-highlights/worlds-first-open-access-battery-imaging-library-launches/**](https://www.isis.stfc.ac.uk/science-highlights/worlds-first-open-access-battery-imaging-library-launches/), ISIS Neutron and Muon Source, 2026
+
 ### Machine Learning
 * [**Artificial intelligence for self-supervised tomographic image reconstruction**](https://photon-science.desy.de/sites/site_photonscience/content/e62/e176422/e187503/e305749/e305750/infoboxContent305752/PhotonScience2023_vers_2-24_low_res_eng.pdf), DESY Photon Science 2023 - Highlights and Annual Report 
 
