@@ -38,3 +38,15 @@ I have led and delivered multiple research programmes funded by UKRI as **techni
        alt="Handling hyperspectral imaging data with the nDTomo GUI"
        style="max-width: 100%; width: 700px;">
 </div>
+
+<div style="width: 100%; margin: 40px auto; text-align: center;">
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+        <iframe src="https://www.youtube.com/watch?v=fTjiMIfijlI" 
+                style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" 
+                allowfullscreen title="Battery Imaging Library"></iframe>
+    </div>
+    <div class="caption mt-3">
+        <strong>Battery Imaging Library (BIL)</strong>
+        <p>Trailer for BIL showing some of the various imaging modality datasets present in the library.</p>
+    </div>
+</div>
