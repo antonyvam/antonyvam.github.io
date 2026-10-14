@@ -10,7 +10,7 @@ hide_title: true
 ## Royal Society of Chemistry 2023 Analytical Science Horizon Prize
 **Sir George Stokes Prize — "The XRD-CT Pioneers"**
 
-I was honored to be part of the team recognized for the development and application of X-ray diffraction computed tomography (XRD-CT). My work played a pivotal role in evolving this technique into a cutting-edge tool for looking inside functional materials like batteries and catalysts in real-time.
+I was honored to be part of the team recognized for the development and application of X-ray diffraction computed tomography (XRD-CT). My work played a pivotal role in evolving this technique into a cutting-edge tool for looking inside functional materials and devices like batteries and catalytic reactors in real-time.
 
 <div style="width: 100%; margin: 40px auto; text-align: center;">
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
